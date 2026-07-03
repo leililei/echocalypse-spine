@@ -1,0 +1,706 @@
+
+400140.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nike_ai_meimao_3
+  rotate: false
+  xy: 442, 1826
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+nike_ai_meimao_4
+  rotate: false
+  xy: 2, 1744
+  size: 43, 9
+  orig: 43, 9
+  offset: 0, 0
+  index: -1
+nike_ai_yanbai_4
+  rotate: false
+  xy: 2, 1820
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+nike_ai_zui_2
+  rotate: false
+  xy: 61, 1994
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+nike_bozi_1
+  rotate: false
+  xy: 715, 1913
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+nike_bozi_2
+  rotate: false
+  xy: 749, 287
+  size: 219, 98
+  orig: 219, 98
+  offset: 0, 0
+  index: -1
+nike_bozi_3
+  rotate: false
+  xy: 938, 1838
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+nike_bozi_4
+  rotate: true
+  xy: 923, 1706
+  size: 131, 55
+  orig: 131, 55
+  offset: 0, 0
+  index: -1
+nike_chang_meimao_11
+  rotate: false
+  xy: 643, 1985
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+nike_xi_meimao_9
+  rotate: false
+  xy: 643, 1985
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+nike_chang_meimao_12
+  rotate: false
+  xy: 2, 1282
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+nike_xi_meimao_10
+  rotate: false
+  xy: 2, 1282
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+nike_chang_shangyanjiemao_12
+  rotate: false
+  xy: 562, 1382
+  size: 58, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+nike_chang_xiayanjiemao_12
+  rotate: false
+  xy: 47, 1742
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+nike_chang_yanbai_11
+  rotate: false
+  xy: 201, 1880
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+nike_chang_yanqiu_11
+  rotate: false
+  xy: 2, 1470
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+nike_chang_yanqiu_12
+  rotate: false
+  xy: 338, 1968
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+nike_chang_zui_6
+  rotate: false
+  xy: 13, 1814
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+nike_ee
+  rotate: false
+  xy: 34, 1811
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+nike_hongsheng_1
+  rotate: 180
+  xy: 602, 7
+  size: 371, 146
+  orig: 371, 146
+  offset: 0, 0
+  index: -1
+nike_hongsheng_2
+  rotate: false
+  xy: 707, 969
+  size: 113, 301
+  orig: 113, 301
+  offset: 0, 0
+  index: -1
+nike_jiao_1
+  rotate: false
+  xy: 234, 1172
+  size: 66, 153
+  orig: 66, 153
+  offset: 0, 0
+  index: -1
+nike_jiao_2
+  rotate: false
+  xy: 566, 1151
+  size: 85, 192
+  orig: 85, 192
+  offset: 0, 0
+  index: -1
+nike_meimao_1
+  rotate: false
+  xy: 118, 1576
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+nike_meimao_2
+  rotate: false
+  xy: 374, 1847
+  size: 50, 8
+  orig: 50, 8
+  offset: 0, 0
+  index: -1
+nike_nu_meimao_5
+  rotate: false
+  xy: 2, 1675
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+nike_nu_meimao_6
+  rotate: false
+  xy: 62, 1256
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+nike_nu_zui_3
+  rotate: false
+  xy: 86, 1976
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+nike_pifeng_1
+  rotate: 270
+  xy: 2, 125
+  size: 187, 581
+  orig: 187, 581
+  offset: 0, 0
+  index: -1
+nike_pifeng_2
+  rotate: true
+  xy: 10, 485
+  size: 454, 545
+  orig: 495, 545
+  offset: 41, 0
+  index: -1
+nike_pifeng_3
+  rotate: 180
+  xy: 472, 1421
+  size: 281, 577
+  orig: 281, 577
+  offset: 0, 0
+  index: -1
+nike_pifeng_4
+  rotate: 180
+  xy: 405, 89
+  size: 248, 75
+  orig: 248, 75
+  offset: 0, 0
+  index: -1
+nike_qunzi
+  rotate: 180
+  xy: 2, 825
+  size: 415, 430
+  orig: 415, 433
+  offset: 0, 3
+  index: -1
+nike_se
+  rotate: false
+  xy: 73, 1985
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+nike_shangyanjiemao_2
+  rotate: false
+  xy: 273, 1139
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+nike_shoubi_1
+  rotate: true
+  xy: 390, 1846
+  size: 153, 75
+  orig: 153, 75
+  offset: 0, 0
+  index: -1
+nike_shoubi_2
+  rotate: false
+  xy: 759, 762
+  size: 211, 163
+  orig: 211, 163
+  offset: 0, 0
+  index: -1
+nike_shoubi_3
+  rotate: false
+  xy: 793, 1734
+  size: 168, 264
+  orig: 168, 264
+  offset: 0, 0
+  index: -1
+nike_shouzhang_1
+  rotate: false
+  xy: 720, 1259
+  size: 99, 79
+  orig: 107, 100
+  offset: 0, 21
+  index: -1
+nike_shouzhang_2
+  rotate: false
+  xy: 900, 4
+  size: 77, 85
+  orig: 77, 85
+  offset: 0, 0
+  index: -1
+nike_shouzhi_1
+  rotate: false
+  xy: 448, 1713
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+nike_shouzhi_2
+  rotate: false
+  xy: 776, 1775
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+nike_shouzhi_3
+  rotate: false
+  xy: 488, 1736
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+nike_shouzhi_4
+  rotate: false
+  xy: 2, 1429
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+nike_shouzhi_5
+  rotate: false
+  xy: 108, 1525
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+nike_shouzhi_6
+  rotate: false
+  xy: 2, 1527
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+nike_shouzhi_7
+  rotate: false
+  xy: 212, 1972
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+nike_shouzhi_8
+  rotate: false
+  xy: 2, 1858
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+nike_shouzhi_9
+  rotate: false
+  xy: 281, 1835
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+nike_shuye_1
+  rotate: false
+  xy: 2, 1607
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+nike_shuye_2
+  rotate: false
+  xy: 551, 1576
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+nike_shuye_3
+  rotate: false
+  xy: 2, 1755
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+nike_shuye_4
+  rotate: false
+  xy: 749, 1593
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+nike_shuye_5
+  rotate: false
+  xy: 2, 1227
+  size: 58, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+nike_shuye_6
+  rotate: false
+  xy: 2, 1551
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+nike_shuye_7
+  rotate: false
+  xy: 2, 1175
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+nike_shuye_8
+  rotate: false
+  xy: 549, 1622
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+nike_tou2
+  rotate: false
+  xy: 2, 1266
+  size: 242, 258
+  orig: 248, 258
+  offset: 6, 0
+  index: -1
+nike_toufa_1
+  rotate: false
+  xy: 761, 387
+  size: 207, 104
+  orig: 207, 115
+  offset: 0, 0
+  index: -1
+nike_toufa_11
+  rotate: false
+  xy: 739, 1499
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+nike_toufa_2
+  rotate: false
+  xy: 906, 579
+  size: 73, 153
+  orig: 73, 153
+  offset: 0, 0
+  index: -1
+nike_toufa_3
+  rotate: false
+  xy: 841, 1129
+  size: 124, 203
+  orig: 134, 203
+  offset: 10, 0
+  index: -1
+nike_toufa_4b
+  rotate: false
+  xy: 859, 103
+  size: 104, 181
+  orig: 104, 181
+  offset: 0, 0
+  index: -1
+nike_toufa_5b
+  rotate: false
+  xy: 830, 686
+  size: 127, 153
+  orig: 127, 153
+  offset: 0, 0
+  index: -1
+nike_toufa_6
+  rotate: true
+  xy: 153, 89
+  size: 92, 207
+  orig: 92, 207
+  offset: 0, 0
+  index: -1
+nike_toufa_7
+  rotate: false
+  xy: 557, 1407
+  size: 87, 168
+  orig: 87, 168
+  offset: 0, 0
+  index: -1
+nike_toufa_8
+  rotate: true
+  xy: 858, 908
+  size: 63, 149
+  orig: 63, 149
+  offset: 0, 0
+  index: -1
+nike_toufa_9b
+  rotate: false
+  xy: 2, 1503
+  size: 117, 238
+  orig: 117, 238
+  offset: 0, 0
+  index: -1
+nike_tui_1
+  rotate: 180
+  xy: 538, 184
+  size: 228, 332
+  orig: 238, 332
+  offset: 10, 0
+  index: -1
+nike_tui_2
+  rotate: false
+  xy: 828, 1307
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+nike_tui_3
+  rotate: false
+  xy: 562, 909
+  size: 170, 372
+  orig: 170, 372
+  offset: 0, 0
+  index: -1
+nike_tui_4
+  rotate: false
+  xy: 499, 518
+  size: 134, 401
+  orig: 134, 401
+  offset: 0, 0
+  index: -1
+nike_um
+  rotate: false
+  xy: 226, 1963
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+nike_weiba
+  rotate: 180
+  xy: 91, 1917
+  size: 150, 83
+  orig: 155, 95
+  offset: 5, 1
+  index: -1
+nike_wuqi_new
+  rotate: false
+  xy: 2, 948
+  size: 562, 1051
+  orig: 562, 1051
+  offset: 0, 0
+  index: -1
+nike_wuqi_weiba_xian
+  rotate: false
+  xy: 290, 1092
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+nike_xi_zui_5
+  rotate: false
+  xy: 180, 1908
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+nike_xiayanjiemao_2
+  rotate: false
+  xy: 47, 1736
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+nike_xiu_meimao_7
+  rotate: false
+  xy: 411, 1741
+  size: 50, 13
+  orig: 50, 13
+  offset: 0, 0
+  index: -1
+nike_xiu_meimao_8
+  rotate: false
+  xy: 183, 1256
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+nike_xiu_saihong_1
+  rotate: false
+  xy: 807, 1706
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+nike_xiu_saihong_2
+  rotate: false
+  xy: 646, 1450
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+nike_xiu_zui_4
+  rotate: false
+  xy: 2, 1814
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+nike_yanjing_1
+  rotate: 270
+  xy: 883, 1537
+  size: 166, 98
+  orig: 166, 98
+  offset: 0, 0
+  index: -1
+nike_yanjing_2
+  rotate: false
+  xy: 756, 1047
+  size: 219, 122
+  orig: 219, 122
+  offset: 0, 0
+  index: -1
+nike_yanjing_2back
+  rotate: false
+  xy: 636, 1378
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+nike_yanjing_3
+  rotate: false
+  xy: 309, 1755
+  size: 182, 99
+  orig: 182, 99
+  offset: 0, 0
+  index: -1
+nike_yifu_1
+  rotate: false
+  xy: 725, 1831
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+nike_yifu_10
+  rotate: false
+  xy: 252, 1856
+  size: 158, 143
+  orig: 158, 143
+  offset: 0, 0
+  index: -1
+nike_yifu_2
+  rotate: false
+  xy: 669, 844
+  size: 304, 202
+  orig: 304, 202
+  offset: 0, 0
+  index: -1
+nike_yifu_3
+  rotate: false
+  xy: 722, 129
+  size: 181, 149
+  orig: 181, 149
+  offset: 0, 0
+  index: -1
+nike_yifu_4
+  rotate: 180
+  xy: 564, 1324
+  size: 357, 434
+  orig: 357, 434
+  offset: 0, 0
+  index: -1
+nike_yifu_5
+  rotate: false
+  xy: 635, 496
+  size: 238, 248
+  orig: 241, 257
+  offset: 0, 9
+  index: -1
+nike_yifu_6
+  rotate: false
+  xy: 540, 1650
+  size: 284, 348
+  orig: 284, 348
+  offset: 0, 0
+  index: -1
+nike_yifu_7
+  rotate: true
+  xy: 135, 288
+  size: 234, 405
+  orig: 238, 408
+  offset: 4, 3
+  index: -1
+nike_yifu_8
+  rotate: false
+  xy: 620, 469
+  size: 354, 452
+  orig: 354, 452
+  offset: 0, 0
+  index: -1
+nike_yifu_9
+  rotate: false
+  xy: 883, 1437
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+nike_yo
+  rotate: false
+  xy: 230, 1919
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+nike_yu
+  rotate: false
+  xy: 2, 1886
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+nike_zui_1
+  rotate: false
+  xy: 2, 1904
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
