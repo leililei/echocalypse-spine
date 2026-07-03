@@ -1,0 +1,139 @@
+
+700120_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biejing
+  rotate: 180
+  xy: 1027, 1444
+  size: 1018, 488
+  orig: 1018, 488
+  offset: 0, 0
+  index: -1
+jinzita_1
+  rotate: false
+  xy: 2, 1246
+  size: 1326, 725
+  orig: 1326, 725
+  offset: 0, 0
+  index: -1
+jinzita_2
+  rotate: true
+  xy: 2, 1052
+  size: 659, 721
+  orig: 659, 721
+  offset: 0, 0
+  index: -1
+shamo_1
+  rotate: false
+  xy: 2, 237
+  size: 1071, 103
+  orig: 1095, 155
+  offset: 24, 52
+  index: -1
+shui_1
+  rotate: 180
+  xy: 965, 23
+  size: 486, 361
+  orig: 486, 361
+  offset: 0, 0
+  index: -1
+shui_12
+  rotate: true
+  xy: 1546, 171
+  size: 268, 500
+  orig: 268, 500
+  offset: 0, 0
+  index: -1
+shui_17
+  rotate: false
+  xy: 64, 1701
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+shui_18
+  rotate: false
+  xy: 2, 1896
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+shui_19
+  rotate: false
+  xy: 2, 1931
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+shui_3
+  rotate: false
+  xy: 53, 1711
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+shui_5
+  rotate: false
+  xy: 2, 4
+  size: 408, 230
+  orig: 408, 230
+  offset: 0, 0
+  index: -1
+shui_6
+  rotate: false
+  xy: 995, 334
+  size: 681, 346
+  orig: 681, 346
+  offset: 0, 0
+  index: -1
+shui_7
+  rotate: false
+  xy: 2, 1787
+  size: 63, 106
+  orig: 63, 106
+  offset: 0, 0
+  index: -1
+shuo_3
+  rotate: 180
+  xy: 826, 1118
+  size: 1135, 329
+  orig: 1135, 350
+  offset: 0, 0
+  index: -1
+texiao_1
+  rotate: true
+  xy: 725, 667
+  size: 448, 612
+  orig: 448, 612
+  offset: 0, 0
+  index: -1
+texiao_2
+  rotate: false
+  xy: 1339, 731
+  size: 379, 385
+  orig: 379, 385
+  offset: 0, 0
+  index: -1
+yun_1
+  rotate: 180
+  xy: 1636, 467
+  size: 410, 474
+  orig: 428, 497
+  offset: 18, 23
+  index: -1
+yun_2
+  rotate: false
+  xy: 2, 761
+  size: 592, 290
+  orig: 628, 290
+  offset: 0, 0
+  index: -1
+yun_3
+  rotate: 180
+  xy: 2, 504
+  size: 1016, 183
+  orig: 1016, 213
+  offset: 0, 13
+  index: -1

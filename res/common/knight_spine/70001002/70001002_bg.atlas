@@ -1,0 +1,251 @@
+
+70001002_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_beijing
+  rotate: false
+  xy: 2, 527
+  size: 1570, 1500
+  orig: 1570, 1707
+  offset: 0, 207
+  index: -1
+bg_ditai
+  rotate: 270
+  xy: 1595, 4
+  size: 446, 303
+  orig: 446, 303
+  offset: 0, 0
+  index: -1
+bg_hua_1
+  rotate: false
+  xy: 855, 1715
+  size: 169, 94
+  orig: 169, 94
+  offset: 0, 0
+  index: -1
+bg_hua_2
+  rotate: false
+  xy: 117, 1953
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+bg_hua_3
+  rotate: false
+  xy: 2, 1216
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+bg_jitan
+  rotate: false
+  xy: 2, 75
+  size: 1591, 450
+  orig: 1591, 450
+  offset: 0, 0
+  index: -1
+bg_lingdang_1
+  rotate: false
+  xy: 280, 1822
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+bg_lingdang_2
+  rotate: false
+  xy: 2, 790
+  size: 186, 214
+  orig: 186, 214
+  offset: 0, 0
+  index: -1
+bg_shuidi
+  rotate: true
+  xy: 1549, 438
+  size: 1588, 342
+  orig: 1588, 393
+  offset: 0, 0
+  index: -1
+bg_shuimian
+  rotate: false
+  xy: 191, 1808
+  size: 1050, 218
+  orig: 1050, 218
+  offset: 0, 0
+  index: -1
+huaban1
+  rotate: false
+  xy: 659, 1699
+  size: 194, 120
+  orig: 242, 151
+  offset: 21, 15
+  index: -1
+huaban2
+  rotate: false
+  xy: 2, 1082
+  size: 85, 110
+  orig: 131, 151
+  offset: 22, 21
+  index: -1
+huaban3
+  rotate: false
+  xy: 435, 1689
+  size: 222, 117
+  orig: 266, 151
+  offset: 25, 17
+  index: -1
+huaban4
+  rotate: false
+  xy: 2, 656
+  size: 120, 131
+  orig: 147, 151
+  offset: 8, 13
+  index: -1
+kuosanbowen/kuosanbowen_00000
+  rotate: false
+  xy: 352, 1768
+  size: 45, 17
+  orig: 51, 21
+  offset: 0, 3
+  index: -1
+kuosanbowen/kuosanbowen_00001
+  rotate: false
+  xy: 393, 1729
+  size: 39, 18
+  orig: 51, 21
+  offset: 6, 3
+  index: -1
+kuosanbowen/kuosanbowen_00002
+  rotate: false
+  xy: 372, 1749
+  size: 42, 17
+  orig: 51, 21
+  offset: 4, 2
+  index: -1
+kuosanbowen/kuosanbowen_00003
+  rotate: false
+  xy: 379, 1789
+  size: 44, 17
+  orig: 51, 21
+  offset: 3, 2
+  index: -1
+kuosanbowen/kuosanbowen_00004
+  rotate: false
+  xy: 331, 1787
+  size: 46, 19
+  orig: 51, 21
+  offset: 2, 1
+  index: -1
+kuosanbowen/kuosanbowen_00005
+  rotate: false
+  xy: 218, 2007
+  size: 48, 19
+  orig: 51, 21
+  offset: 1, 1
+  index: -1
+kuosanbowen/kuosanbowen_00006
+  rotate: false
+  xy: 218, 1987
+  size: 48, 18
+  orig: 51, 21
+  offset: 1, 1
+  index: -1
+kuosanbowen/kuosanbowen_00007
+  rotate: false
+  xy: 158, 2007
+  size: 50, 19
+  orig: 51, 21
+  offset: 0, 1
+  index: -1
+kuosanbowen/kuosanbowen_00008
+  rotate: false
+  xy: 268, 2008
+  size: 50, 18
+  orig: 51, 21
+  offset: 1, 1
+  index: -1
+kuosanbowen/kuosanbowen_00009
+  rotate: false
+  xy: 166, 1986
+  size: 50, 19
+  orig: 51, 21
+  offset: 1, 1
+  index: -1
+kuosanbowen/kuosanbowen_00010
+  rotate: false
+  xy: 226, 1886
+  size: 48, 19
+  orig: 51, 21
+  offset: 3, 1
+  index: -1
+shizilizi/lizi_00
+  rotate: false
+  xy: 49, 2017
+  size: 11, 9
+  orig: 39, 38
+  offset: 15, 15
+  index: -1
+shizilizi/lizi_01
+  rotate: false
+  xy: 399, 1769
+  size: 24, 18
+  orig: 39, 38
+  offset: 8, 11
+  index: -1
+shizilizi/lizi_02
+  rotate: false
+  xy: 2, 1349
+  size: 24, 20
+  orig: 39, 38
+  offset: 8, 10
+  index: -1
+shizilizi/lizi_03
+  rotate: false
+  xy: 320, 2006
+  size: 25, 20
+  orig: 39, 38
+  offset: 8, 10
+  index: -1
+shizilizi/lizi_04
+  rotate: false
+  xy: 250, 1864
+  size: 28, 20
+  orig: 39, 38
+  offset: 6, 10
+  index: -1
+shizilizi/lizi_05
+  rotate: false
+  xy: 65, 1997
+  size: 34, 29
+  orig: 39, 38
+  offset: 3, 5
+  index: -1
+shizilizi/lizi_06
+  rotate: false
+  xy: 2, 1371
+  size: 25, 20
+  orig: 39, 38
+  offset: 9, 9
+  index: -1
+shizilizi/lizi_07
+  rotate: false
+  xy: 32, 2016
+  size: 15, 10
+  orig: 39, 38
+  offset: 13, 15
+  index: -1
+yumao_00
+  rotate: false
+  xy: 2, 1424
+  size: 25, 26
+  orig: 44, 45
+  offset: 11, 10
+  index: -1
+yumao_01
+  rotate: false
+  xy: 2, 1393
+  size: 22, 29
+  orig: 44, 45
+  offset: 8, 8
+  index: -1

@@ -1,0 +1,159 @@
+
+700930_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuangl1
+  rotate: true
+  xy: 291, 3
+  size: 922, 1746
+  orig: 922, 1746
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 1013, 3
+  size: 210, 301
+  orig: 210, 301
+  offset: 0, 0
+  index: -1
+kulou
+  rotate: false
+  xy: 1806, 1469
+  size: 180, 204
+  orig: 180, 204
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 2, 644
+  size: 1809, 1403
+  orig: 1809, 1403
+  offset: 0, 0
+  index: -1
+shuajia
+  rotate: true
+  xy: 1316, 2
+  size: 402, 612
+  orig: 402, 612
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 184, 199
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+yezi10
+  rotate: true
+  xy: 400, 503
+  size: 139, 244
+  orig: 139, 244
+  offset: 0, 0
+  index: -1
+yezi11
+  rotate: false
+  xy: 45, 675
+  size: 99, 103
+  orig: 99, 103
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 2, 51
+  size: 199, 436
+  orig: 199, 436
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 1543, 866
+  size: 433, 306
+  orig: 433, 306
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: false
+  xy: 1607, 1084
+  size: 313, 384
+  orig: 313, 384
+  offset: 0, 0
+  index: -1
+yezi5
+  rotate: false
+  xy: 2, 780
+  size: 186, 483
+  orig: 209, 483
+  offset: 23, 0
+  index: -1
+yezi6
+  rotate: false
+  xy: 1677, 371
+  size: 241, 154
+  orig: 241, 154
+  offset: 0, 0
+  index: -1
+yezi7
+  rotate: false
+  xy: 1812, 1729
+  size: 199, 318
+  orig: 199, 318
+  offset: 0, 0
+  index: -1
+yezi8
+  rotate: false
+  xy: 631, 597
+  size: 229, 75
+  orig: 229, 75
+  offset: 0, 0
+  index: -1
+yezi9
+  rotate: false
+  xy: 2, 405
+  size: 396, 329
+  orig: 396, 329
+  offset: 0, 0
+  index: -1
+
+700930_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuangl2
+  rotate: 180
+  xy: 709, 339
+  size: 862, 1644
+  orig: 862, 1644
+  offset: 0, 0
+  index: -1
+chuangl3
+  rotate: false
+  xy: 2, 533
+  size: 747, 1450
+  orig: 747, 1450
+  offset: 0, 0
+  index: -1
+chuangl4
+  rotate: false
+  xy: 1128, 359
+  size: 726, 1362
+  orig: 726, 1362
+  offset: 0, 0
+  index: -1
+dengzi
+  rotate: false
+  xy: 516, 1296
+  size: 430, 687
+  orig: 430, 687
+  offset: 0, 0
+  index: -1
+diban
+  rotate: false
+  xy: 2, 4
+  size: 1628, 334
+  orig: 1628, 334
+  offset: 0, 0
+  index: -1

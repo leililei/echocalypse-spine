@@ -1,0 +1,41 @@
+
+700480_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_7
+  rotate: 180
+  xy: 2, 261
+  size: 1920, 1673
+  orig: 1920, 1709
+  offset: 0, 0
+  index: -1
+bg_8
+  rotate: 270
+  xy: 965, 4
+  size: 341, 982
+  orig: 341, 982
+  offset: 0, 0
+  index: -1
+effect/zhuzi1_00000
+  rotate: false
+  xy: 2, 547
+  size: 158, 384
+  orig: 158, 384
+  offset: 0, 0
+  index: -1
+effect/zhuzi2_00000
+  rotate: false
+  xy: 2, 224
+  size: 129, 322
+  orig: 129, 322
+  offset: 0, 0
+  index: -1
+effect/zhuzi3_00000
+  rotate: false
+  xy: 2, 1798
+  size: 75, 135
+  orig: 75, 135
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+70035001_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_dengdai2_00
+  rotate: false
+  xy: 2, 561
+  size: 318, 97
+  orig: 318, 261
+  offset: 0, 85
+  index: -1
+layer135
+  rotate: true
+  xy: 398, 78
+  size: 650, 1093
+  orig: 692, 1305
+  offset: 42, 59
+  index: -1
+layer136
+  rotate: 270
+  xy: 2, 3
+  size: 405, 416
+  orig: 405, 416
+  offset: 0, 0
+  index: -1
+layer137
+  rotate: true
+  xy: 420, 20
+  size: 159, 343
+  orig: 159, 343
+  offset: 0, 0
+  index: -1
+layer142
+  rotate: false
+  xy: 2, 569
+  size: 1522, 1216
+  orig: 1522, 1216
+  offset: 0, 0
+  index: -1

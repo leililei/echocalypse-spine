@@ -1,0 +1,242 @@
+
+700610_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: 180
+  xy: 4, 250
+  size: 1399, 608
+  orig: 1399, 608
+  offset: 0, 0
+  index: -1
+ttx23
+  rotate: false
+  xy: 4, 850
+  size: 1351, 1092
+  orig: 1351, 1092
+  offset: 0, 0
+  index: -1
+ttx24
+  rotate: true
+  xy: 632, 953
+  size: 291, 180
+  orig: 291, 180
+  offset: 0, 0
+  index: -1
+ttx29
+  rotate: true
+  xy: 1819, 411
+  size: 420, 128
+  orig: 420, 136
+  offset: 0, 8
+  index: -1
+ttx32
+  rotate: false
+  xy: 1262, 1541
+  size: 759, 401
+  orig: 759, 416
+  offset: 0, 0
+  index: -1
+ttx33
+  rotate: false
+  xy: 4, 664
+  size: 314, 167
+  orig: 314, 167
+  offset: 0, 0
+  index: -1
+ttx34
+  rotate: false
+  xy: 4, 1350
+  size: 67, 111
+  orig: 67, 111
+  offset: 0, 0
+  index: -1
+ttx35
+  rotate: false
+  xy: 1629, 11
+  size: 319, 396
+  orig: 319, 396
+  offset: 0, 0
+  index: -1
+ttx45
+  rotate: false
+  xy: 4, 6
+  size: 1621, 241
+  orig: 1621, 241
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: true
+  xy: 4, 835
+  size: 463, 624
+  orig: 463, 624
+  offset: 0, 0
+  index: -1
+yun
+  rotate: true
+  xy: 1359, 412
+  size: 1083, 457
+  orig: 1083, 457
+  offset: 0, 0
+  index: -1
+
+700610_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengsha_xia/fengsha_xia_00004
+  rotate: false
+  xy: 1033, 24
+  size: 504, 458
+  orig: 504, 465
+  offset: 0, 7
+  index: -1
+fengsha_xia/fengsha_xia_00006
+  rotate: false
+  xy: 1223, 399
+  size: 504, 465
+  orig: 504, 465
+  offset: 0, 0
+  index: -1
+fengsha_xia/fengsha_xia_00008
+  rotate: false
+  xy: 1367, 796
+  size: 504, 465
+  orig: 504, 465
+  offset: 0, 0
+  index: -1
+fengsha_xia/fengsha_xia_00010
+  rotate: 180
+  xy: 1194, 1507
+  size: 504, 465
+  orig: 504, 465
+  offset: 0, 0
+  index: -1
+fengsha_xia/fengsha_xia_00012
+  rotate: 270
+  xy: 1582, 6
+  size: 504, 462
+  orig: 504, 465
+  offset: 0, 3
+  index: -1
+fengsha_xia/fengsha_xia_00014
+  rotate: false
+  xy: 4, 557
+  size: 504, 465
+  orig: 504, 465
+  offset: 0, 0
+  index: -1
+fengsha_xia/fengsha_xia_00016
+  rotate: false
+  xy: 1540, 1189
+  size: 504, 465
+  orig: 504, 465
+  offset: 0, 0
+  index: -1
+fengsha_xia/fengsha_xia_00022
+  rotate: false
+  xy: 278, 118
+  size: 504, 462
+  orig: 504, 465
+  offset: 0, 3
+  index: -1
+ttx14
+  rotate: 180
+  xy: 853, 329
+  size: 668, 1643
+  orig: 668, 1643
+  offset: 0, 0
+  index: -1
+ttx25
+  rotate: true
+  xy: 4, 140
+  size: 412, 257
+  orig: 412, 259
+  offset: 0, 1
+  index: -1
+ttx31
+  rotate: false
+  xy: 4, 965
+  size: 567, 1007
+  orig: 567, 1007
+  offset: 0, 0
+  index: -1
+ttx46
+  rotate: true
+  xy: 569, 543
+  size: 1430, 541
+  orig: 1430, 541
+  offset: 0, 0
+  index: -1
+
+700610_bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengsha_xia/fengsha_xia_00000
+  rotate: false
+  xy: 497, 5
+  size: 495, 449
+  orig: 504, 465
+  offset: 9, 16
+  index: -1
+fengsha_xia/fengsha_xia_00002
+  rotate: 180
+  xy: 1467, 657
+  size: 504, 457
+  orig: 504, 465
+  offset: 0, 8
+  index: -1
+fengsha_xia/fengsha_xia_00018
+  rotate: 180
+  xy: 461, 649
+  size: 504, 465
+  orig: 504, 465
+  offset: 0, 0
+  index: -1
+fengsha_xia/fengsha_xia_00020
+  rotate: false
+  xy: 4, 656
+  size: 504, 459
+  orig: 504, 465
+  offset: 0, 6
+  index: -1
+fengsha_xia/fengsha_xia_00024
+  rotate: false
+  xy: 1242, 309
+  size: 504, 453
+  orig: 504, 465
+  offset: 0, 12
+  index: -1
+fengsha_xia/fengsha_xia_00026
+  rotate: 180
+  xy: 966, 666
+  size: 504, 449
+  orig: 504, 465
+  offset: 0, 16
+  index: -1
+fengsha_xia/fengsha_xia_00028
+  rotate: false
+  xy: 752, 302
+  size: 502, 448
+  orig: 504, 465
+  offset: 2, 17
+  index: -1
+ttx13
+  rotate: 180
+  xy: 1059, 6
+  size: 752, 395
+  orig: 756, 403
+  offset: 0, 5
+  index: -1
+ttx30
+  rotate: true
+  xy: 4, 376
+  size: 276, 561
+  orig: 277, 561
+  offset: 1, 0
+  index: -1

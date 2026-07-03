@@ -1,0 +1,165 @@
+
+700440_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b5
+  rotate: true
+  xy: 1537, 53
+  size: 1456, 509
+  orig: 1610, 1610
+  offset: 135, 311
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 684
+  size: 1560, 1308
+  orig: 1610, 1610
+  offset: 50, 78
+  index: -1
+hailang_2
+  rotate: true
+  xy: 1564, 594
+  size: 1399, 266
+  orig: 1399, 266
+  offset: 0, 0
+  index: -1
+hailang_3
+  rotate: 180
+  xy: 2, 56
+  size: 1541, 626
+  orig: 1541, 626
+  offset: 0, 0
+  index: -1
+shayu_1
+  rotate: true
+  xy: 1832, 1532
+  size: 393, 213
+  orig: 393, 213
+  offset: 0, 0
+  index: -1
+shayu_2
+  rotate: false
+  xy: 1320, 3
+  size: 257, 264
+  orig: 257, 264
+  offset: 0, 0
+  index: -1
+shayu_4
+  rotate: false
+  xy: 2, 533
+  size: 96, 150
+  orig: 96, 150
+  offset: 0, 0
+  index: -1
+shayu_5
+  rotate: false
+  xy: 62, 525
+  size: 97, 77
+  orig: 97, 77
+  offset: 0, 0
+  index: -1
+shayu_6
+  rotate: false
+  xy: 1643, 27
+  size: 223, 238
+  orig: 223, 238
+  offset: 0, 0
+  index: -1
+
+700440_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a2
+  rotate: 270
+  xy: 970, 186
+  size: 1236, 653
+  orig: 1610, 1610
+  offset: 0, 412
+  index: -1
+a4
+  rotate: 180
+  xy: 1294, 396
+  size: 701, 763
+  orig: 1610, 1610
+  offset: 909, 530
+  index: -1
+a5
+  rotate: false
+  xy: 131, 3
+  size: 872, 999
+  orig: 1610, 1610
+  offset: 708, 549
+  index: -1
+b1
+  rotate: true
+  xy: 2, 441
+  size: 1562, 972
+  orig: 1610, 1610
+  offset: 48, 422
+  index: -1
+renhou_guang
+  rotate: 180
+  xy: 1607, 984
+  size: 421, 545
+  orig: 421, 545
+  offset: 0, 0
+  index: -1
+shayu_guang
+  rotate: 270
+  xy: 937, 1097
+  size: 905, 842
+  orig: 1594, 1171
+  offset: 581, 252
+  index: -1
+
+700440_bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: 270
+  xy: 902, 236
+  size: 615, 769
+  orig: 1610, 1610
+  offset: 67, 753
+  index: -1
+a3
+  rotate: false
+  xy: 331, 913
+  size: 718, 645
+  orig: 1610, 1610
+  offset: 892, 428
+  index: -1
+a6
+  rotate: 270
+  xy: 872, 680
+  size: 870, 909
+  orig: 1610, 1610
+  offset: 574, 678
+  index: -1
+a7
+  rotate: false
+  xy: 2, 650
+  size: 878, 907
+  orig: 1610, 1610
+  offset: 357, 703
+  index: -1
+b2
+  rotate: 180
+  xy: 250, 4
+  size: 719, 550
+  orig: 1610, 1610
+  offset: 175, 466
+  index: -1
+shayu_3
+  rotate: 180
+  xy: 2, 210
+  size: 564, 568
+  orig: 564, 626
+  offset: 0, 58
+  index: -1

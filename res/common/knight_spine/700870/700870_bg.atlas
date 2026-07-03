@@ -1,0 +1,305 @@
+
+700870_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing4
+  rotate: true
+  xy: 2, 113
+  size: 867, 1071
+  orig: 867, 1071
+  offset: 0, 0
+  index: -1
+beijing5
+  rotate: false
+  xy: 2, 622
+  size: 2012, 1407
+  orig: 2012, 1407
+  offset: 0, 0
+  index: -1
+beijingguang/beijingguang_00
+  rotate: true
+  xy: 2, 1061
+  size: 475, 334
+  orig: 513, 389
+  offset: 0, 54
+  index: -1
+beijingguang/beijingguang_44
+  rotate: true
+  xy: 1642, 688
+  size: 510, 374
+  orig: 513, 389
+  offset: 0, 15
+  index: -1
+lizi/lizi01/00000
+  rotate: false
+  xy: 86, 1723
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+lizi/lizi02/00000
+  rotate: false
+  xy: 127, 1985
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+lizi/lizi03/00000
+  rotate: false
+  xy: 338, 1104
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+tiane13
+  rotate: false
+  xy: 2, 628
+  size: 101, 432
+  orig: 101, 432
+  offset: 0, 0
+  index: -1
+tiane14
+  rotate: true
+  xy: 1062, 4
+  size: 302, 955
+  orig: 302, 955
+  offset: 0, 0
+  index: -1
+tiane15
+  rotate: 270
+  xy: 1111, 1855
+  size: 173, 882
+  orig: 173, 882
+  offset: 0, 0
+  index: -1
+tiane4
+  rotate: false
+  xy: 1721, 1200
+  size: 247, 311
+  orig: 273, 311
+  offset: 0, 0
+  index: -1
+tiane5
+  rotate: 270
+  xy: 2, 14
+  size: 222, 854
+  orig: 410, 906
+  offset: 0, 52
+  index: -1
+tiane7
+  rotate: false
+  xy: 1292, 169
+  size: 708, 517
+  orig: 746, 517
+  offset: 38, 0
+  index: -1
+tiane8
+  rotate: true
+  xy: 835, 409
+  size: 219, 426
+  orig: 219, 426
+  offset: 0, 0
+  index: -1
+tiane9
+  rotate: false
+  xy: 2, 1561
+  size: 83, 299
+  orig: 83, 299
+  offset: 0, 0
+  index: -1
+yumao1
+  rotate: false
+  xy: 1777, 1809
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 2, 1971
+  size: 123, 57
+  orig: 123, 58
+  offset: 0, 0
+  index: -1
+yumao3
+  rotate: false
+  xy: 78, 1538
+  size: 167, 116
+  orig: 167, 116
+  offset: 0, 0
+  index: -1
+
+700870_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 2, 958
+  size: 938, 968
+  orig: 938, 968
+  offset: 0, 0
+  index: -1
+beijing2
+  rotate: false
+  xy: 958, 379
+  size: 1087, 698
+  orig: 1087, 856
+  offset: 0, 99
+  index: -1
+beijing3
+  rotate: 270
+  xy: 780, 1009
+  size: 869, 1265
+  orig: 869, 1265
+  offset: 0, 0
+  index: -1
+beijingguang/beijingguang_36
+  rotate: false
+  xy: 1532, 3
+  size: 503, 374
+  orig: 513, 389
+  offset: 1, 15
+  index: -1
+beijingguang/beijingguang_40
+  rotate: false
+  xy: 439, 582
+  size: 507, 374
+  orig: 513, 389
+  offset: 0, 15
+  index: -1
+beijingguang/beijingguang_48
+  rotate: false
+  xy: 1020, 88
+  size: 510, 369
+  orig: 513, 389
+  offset: 0, 20
+  index: -1
+tiane1
+  rotate: true
+  xy: 942, 1607
+  size: 320, 540
+  orig: 320, 540
+  offset: 0, 0
+  index: -1
+tiane10
+  rotate: false
+  xy: 26, 58
+  size: 178, 424
+  orig: 178, 424
+  offset: 0, 0
+  index: -1
+tiane11
+  rotate: false
+  xy: 2, 298
+  size: 133, 570
+  orig: 133, 570
+  offset: 0, 0
+  index: -1
+tiane12
+  rotate: true
+  xy: 1459, 919
+  size: 256, 587
+  orig: 256, 615
+  offset: 0, 28
+  index: -1
+tiane2
+  rotate: false
+  xy: 2, 385
+  size: 436, 804
+  orig: 502, 804
+  offset: 0, 0
+  index: -1
+tiane3
+  rotate: true
+  xy: 250, 143
+  size: 550, 784
+  orig: 550, 815
+  offset: 0, 31
+  index: -1
+
+700870_bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijingguang/beijingguang_04
+  rotate: false
+  xy: 517, 145
+  size: 511, 338
+  orig: 513, 389
+  offset: 0, 50
+  index: -1
+beijingguang/beijingguang_08
+  rotate: false
+  xy: 1032, 359
+  size: 513, 340
+  orig: 513, 389
+  offset: 0, 48
+  index: -1
+beijingguang/beijingguang_12
+  rotate: false
+  xy: 517, 485
+  size: 513, 342
+  orig: 513, 389
+  offset: 0, 46
+  index: -1
+beijingguang/beijingguang_16
+  rotate: false
+  xy: 2, 483
+  size: 513, 344
+  orig: 513, 389
+  offset: 0, 44
+  index: -1
+beijingguang/beijingguang_20
+  rotate: false
+  xy: 1487, 3
+  size: 457, 345
+  orig: 513, 389
+  offset: 49, 43
+  index: -1
+beijingguang/beijingguang_24
+  rotate: false
+  xy: 1030, 3
+  size: 455, 354
+  orig: 513, 389
+  offset: 49, 34
+  index: -1
+beijingguang/beijingguang_28
+  rotate: false
+  xy: 2, 116
+  size: 454, 365
+  orig: 513, 389
+  offset: 49, 23
+  index: -1
+beijingguang/beijingguang_32
+  rotate: false
+  xy: 511, 829
+  size: 483, 372
+  orig: 513, 389
+  offset: 19, 17
+  index: -1
+beijingguang/beijingguang_52
+  rotate: false
+  xy: 2, 838
+  size: 507, 363
+  orig: 513, 389
+  offset: 0, 26
+  index: -1
+beijingguang/beijingguang_56
+  rotate: false
+  xy: 1547, 350
+  size: 498, 349
+  orig: 513, 389
+  offset: 0, 39
+  index: -1
+tiane6
+  rotate: true
+  xy: 996, 701
+  size: 502, 971
+  orig: 545, 1001
+  offset: 43, 30
+  index: -1

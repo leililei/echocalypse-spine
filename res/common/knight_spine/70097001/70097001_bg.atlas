@@ -1,0 +1,271 @@
+
+70097001_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_beijing_1
+  rotate: false
+  xy: 2, 355
+  size: 1336, 1615
+  orig: 1336, 1615
+  offset: 0, 0
+  index: -1
+bg_beijing_2
+  rotate: 180
+  xy: 1209, 562
+  size: 707, 1407
+  orig: 707, 1407
+  offset: 0, 0
+  index: -1
+bg_chuanglian
+  rotate: 180
+  xy: 2, 1307
+  size: 240, 381
+  orig: 240, 381
+  offset: 0, 0
+  index: -1
+bg_huashu_1
+  rotate: true
+  xy: 1776, 1750
+  size: 219, 198
+  orig: 219, 230
+  offset: 0, 6
+  index: -1
+bg_huashu_2
+  rotate: false
+  xy: 286, 1889
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+bg_huashu_3
+  rotate: false
+  xy: 2, 1348
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+bg_huashu_4
+  rotate: true
+  xy: 569, 74
+  size: 279, 202
+  orig: 279, 236
+  offset: 0, 34
+  index: -1
+bg_plant_1
+  rotate: false
+  xy: 243, 1615
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+bg_plant_2
+  rotate: false
+  xy: 1409, 1819
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+bg_plant_3
+  rotate: 270
+  xy: 1281, 1313
+  size: 311, 175
+  orig: 329, 175
+  offset: 0, 0
+  index: -1
+bg_plant_4
+  rotate: false
+  xy: 710, 5
+  size: 151, 138
+  orig: 151, 138
+  offset: 0, 0
+  index: -1
+bg_plant_5
+  rotate: false
+  xy: 2, 1146
+  size: 133, 163
+  orig: 133, 163
+  offset: 0, 0
+  index: -1
+bg_plant_6
+  rotate: false
+  xy: 2, 965
+  size: 101, 180
+  orig: 101, 180
+  offset: 0, 0
+  index: -1
+bg_plant_7
+  rotate: false
+  xy: 1035, 1619
+  size: 385, 350
+  orig: 385, 350
+  offset: 0, 0
+  index: -1
+hudiechibang_1
+  rotate: false
+  xy: 116, 1258
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1
+hudiechibang_2
+  rotate: false
+  xy: 2, 1390
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+hudieshenti
+  rotate: false
+  xy: 308, 1726
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hudiezhuangshi_3yao
+  rotate: false
+  xy: 348, 1846
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+hudiezhuangshi_4yao
+  rotate: false
+  xy: 286, 1721
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: false
+  xy: 286, 1827
+  size: 60, 60
+  orig: 64, 64
+  offset: 2, 2
+  index: -1
+lizi2
+  rotate: false
+  xy: 286, 1766
+  size: 59, 59
+  orig: 64, 64
+  offset: 2, 3
+  index: -1
+lizi2/lizi2_00000
+  rotate: false
+  xy: 828, 118
+  size: 284, 275
+  orig: 297, 283
+  offset: 13, 3
+  index: -1
+lizi2/lizi2_00004
+  rotate: false
+  xy: 1396, 69
+  size: 283, 275
+  orig: 297, 283
+  offset: 14, 1
+  index: -1
+lizi2/lizi2_00008
+  rotate: false
+  xy: 285, 77
+  size: 282, 276
+  orig: 297, 283
+  offset: 14, 1
+  index: -1
+lizi2/lizi2_00012
+  rotate: false
+  xy: 2, 99
+  size: 281, 277
+  orig: 297, 283
+  offset: 15, 0
+  index: -1
+lizi2/lizi2_00028
+  rotate: false
+  xy: 1114, 281
+  size: 280, 279
+  orig: 297, 283
+  offset: 16, 0
+  index: -1
+lizi2/lizi2_00040
+  rotate: true
+  xy: 1681, 65
+  size: 279, 275
+  orig: 297, 283
+  offset: 13, 0
+  index: -1
+lizi2/lizi2_00048
+  rotate: false
+  xy: 2, 1690
+  size: 282, 279
+  orig: 297, 283
+  offset: 13, 2
+  index: -1
+lizi2/lizi2_00052
+  rotate: false
+  xy: 1559, 346
+  size: 281, 279
+  orig: 297, 283
+  offset: 15, 1
+  index: -1
+lizi2/lizi2_00056
+  rotate: true
+  xy: 1114, 3
+  size: 276, 278
+  orig: 297, 283
+  offset: 21, 1
+  index: -1
+shizi
+  rotate: false
+  xy: 1422, 1705
+  size: 116, 112
+  orig: 150, 150
+  offset: 16, 18
+  index: -1
+
+70097001_bg2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi2/lizi2_00016
+  rotate: false
+  xy: 828, 7
+  size: 273, 275
+  orig: 297, 283
+  offset: 16, 3
+  index: -1
+lizi2/lizi2_00020
+  rotate: false
+  xy: 1103, 4
+  size: 269, 278
+  orig: 297, 283
+  offset: 21, 0
+  index: -1
+lizi2/lizi2_00024
+  rotate: false
+  xy: 2, 4
+  size: 275, 278
+  orig: 297, 283
+  offset: 16, 0
+  index: -1
+lizi2/lizi2_00032
+  rotate: true
+  xy: 279, 2
+  size: 280, 273
+  orig: 297, 283
+  offset: 17, 1
+  index: -1
+lizi2/lizi2_00036
+  rotate: false
+  xy: 1374, 8
+  size: 271, 274
+  orig: 297, 283
+  offset: 18, 0
+  index: -1
+lizi2/lizi2_00044
+  rotate: true
+  xy: 554, 2
+  size: 280, 272
+  orig: 297, 283
+  offset: 13, 3
+  index: -1

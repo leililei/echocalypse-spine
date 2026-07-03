@@ -1,0 +1,249 @@
+
+70116001_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: 180
+  xy: 2, 581
+  size: 1494, 1464
+  orig: 1494, 1464
+  offset: 0, 0
+  index: -1
+band1
+  rotate: 180
+  xy: 2, 83
+  size: 220, 204
+  orig: 220, 204
+  offset: 0, 0
+  index: -1
+band2
+  rotate: false
+  xy: 224, 1908
+  size: 559, 137
+  orig: 570, 143
+  offset: 0, 0
+  index: -1
+band3_shadow
+  rotate: true
+  xy: 345, 510
+  size: 293, 352
+  orig: 295, 352
+  offset: 2, 0
+  index: -1
+band5
+  rotate: true
+  xy: 2, 1404
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+band7
+  rotate: false
+  xy: 2, 1322
+  size: 145, 141
+  orig: 145, 141
+  offset: 0, 0
+  index: -1
+band8
+  rotate: false
+  xy: 754, 509
+  size: 426, 187
+  orig: 426, 187
+  offset: 0, 0
+  index: -1
+blanket
+  rotate: 180
+  xy: 2, 74
+  size: 1523, 743
+  orig: 1523, 797
+  offset: 0, 0
+  index: -1
+curtain2
+  rotate: false
+  xy: 1438, 399
+  size: 464, 1647
+  orig: 473, 1652
+  offset: 0, 1
+  index: -1
+flower1
+  rotate: false
+  xy: 2, 1606
+  size: 194, 196
+  orig: 194, 218
+  offset: 0, 22
+  index: -1
+flower2
+  rotate: false
+  xy: 2, 711
+  size: 228, 263
+  orig: 228, 264
+  offset: 0, 1
+  index: -1
+machine
+  rotate: false
+  xy: 1280, 734
+  size: 203, 144
+  orig: 207, 144
+  offset: 0, 0
+  index: -1
+pillow
+  rotate: false
+  xy: 1517, 54
+  size: 348, 343
+  orig: 348, 343
+  offset: 0, 0
+  index: -1
+plant4
+  rotate: false
+  xy: 222, 1962
+  size: 147, 82
+  orig: 147, 82
+  offset: 0, 0
+  index: -1
+plant5
+  rotate: 180
+  xy: 2, 1801
+  size: 222, 244
+  orig: 222, 244
+  offset: 0, 0
+  index: -1
+plant6
+  rotate: false
+  xy: 1273, 4
+  size: 242, 193
+  orig: 242, 193
+  offset: 0, 0
+  index: -1
+plant7
+  rotate: true
+  xy: 1226, 32
+  size: 214, 289
+  orig: 214, 289
+  offset: 0, 0
+  index: -1
+
+70116001_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: false
+  xy: 1508, 1103
+  size: 332, 394
+  orig: 332, 394
+  offset: 0, 0
+  index: -1
+band4_shadow
+  rotate: true
+  xy: 1181, 426
+  size: 217, 503
+  orig: 219, 503
+  offset: 0, 0
+  index: -1
+band6
+  rotate: false
+  xy: 309, 6
+  size: 547, 280
+  orig: 547, 280
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 1676, 1741
+  size: 301, 303
+  orig: 301, 303
+  offset: 0, 0
+  index: -1
+cake
+  rotate: false
+  xy: 939, 488
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+curtain1
+  rotate: true
+  xy: 841, 4
+  size: 429, 1205
+  orig: 439, 1205
+  offset: 0, 0
+  index: -1
+fog
+  rotate: true
+  xy: 871, 699
+  size: 1344, 803
+  orig: 1344, 803
+  offset: 0, 0
+  index: -1
+plant1
+  rotate: false
+  xy: 1789, 989
+  size: 191, 750
+  orig: 192, 750
+  offset: 0, 0
+  index: -1
+plant2
+  rotate: true
+  xy: 2, 22
+  size: 236, 634
+  orig: 236, 634
+  offset: 0, 0
+  index: -1
+plant3
+  rotate: false
+  xy: 1625, 410
+  size: 279, 641
+  orig: 280, 641
+  offset: 0, 0
+  index: -1
+screen
+  rotate: false
+  xy: 2, 868
+  size: 867, 1175
+  orig: 867, 1175
+  offset: 0, 0
+  index: -1
+sofa
+  rotate: false
+  xy: 2, 244
+  size: 936, 622
+  orig: 936, 622
+  offset: 0, 0
+  index: -1
+
+70116001_bg3.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+band3
+  rotate: 180
+  xy: 2, 62
+  size: 581, 631
+  orig: 581, 636
+  offset: 0, 5
+  index: -1
+band4
+  rotate: true
+  xy: 2, 4
+  size: 281, 542
+  orig: 281, 542
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 1153
+  size: 517, 623
+  orig: 517, 623
+  offset: 0, 0
+  index: -1
+lights
+  rotate: false
+  xy: 2, 495
+  size: 540, 657
+  orig: 551, 744
+  offset: 0, 24
+  index: -1

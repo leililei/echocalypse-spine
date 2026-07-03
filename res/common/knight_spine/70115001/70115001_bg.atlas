@@ -1,0 +1,229 @@
+
+70115001_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_board
+  rotate: true
+  xy: 2, 4
+  size: 210, 422
+  orig: 346, 447
+  offset: 58, 25
+  index: -1
+bg_board_shadow
+  rotate: true
+  xy: 425, 31
+  size: 128, 347
+  orig: 128, 347
+  offset: 0, 0
+  index: -1
+bg_book_02
+  rotate: true
+  xy: 1874, 1095
+  size: 418, 147
+  orig: 418, 334
+  offset: 0, 0
+  index: -1
+bg_books_01
+  rotate: false
+  xy: 1792, 369
+  size: 243, 281
+  orig: 243, 281
+  offset: 0, 0
+  index: -1
+bg_computer
+  rotate: 270
+  xy: 1540, 23
+  size: 615, 281
+  orig: 615, 281
+  offset: 0, 0
+  index: -1
+bg_dabeijing
+  rotate: false
+  xy: 2, 611
+  size: 1930, 1436
+  orig: 2187, 1563
+  offset: 150, 57
+  index: -1
+bg_keyboard
+  rotate: true
+  xy: 2, 645
+  size: 516, 188
+  orig: 516, 188
+  offset: 0, 0
+  index: -1
+bg_leaf_01
+  rotate: 270
+  xy: 1867, 1839
+  size: 207, 176
+  orig: 207, 184
+  offset: 0, 0
+  index: -1
+bg_light_01
+  rotate: 180
+  xy: 1800, 59
+  size: 235, 309
+  orig: 235, 338
+  offset: 0, 0
+  index: -1
+bg_pen holder
+  rotate: false
+  xy: 2, 1562
+  size: 74, 115
+  orig: 74, 115
+  offset: 0, 0
+  index: -1
+bg_qian_door
+  rotate: true
+  xy: 2, 59
+  size: 596, 1537
+  orig: 596, 1707
+  offset: 0, 0
+  index: -1
+bg_reflection_06
+  rotate: false
+  xy: 1090, 455
+  size: 416, 162
+  orig: 607, 266
+  offset: 0, 104
+  index: -1
+bg_reflection_08
+  rotate: 270
+  xy: 1828, 653
+  size: 440, 206
+  orig: 440, 206
+  offset: 0, 0
+  index: -1
+
+70115001_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_Flowerpot
+  rotate: false
+  xy: 467, 694
+  size: 145, 191
+  orig: 145, 191
+  offset: 0, 0
+  index: -1
+bg_bag
+  rotate: false
+  xy: 1434, 1733
+  size: 268, 271
+  orig: 298, 272
+  offset: 24, 0
+  index: -1
+bg_cabinet
+  rotate: false
+  xy: 2, 850
+  size: 635, 1154
+  orig: 720, 1548
+  offset: 85, 65
+  index: -1
+bg_desk
+  rotate: true
+  xy: 609, 566
+  size: 1438, 597
+  orig: 2019, 1253
+  offset: 105, 295
+  index: -1
+bg_folder
+  rotate: false
+  xy: 770, 1126
+  size: 193, 183
+  orig: 193, 183
+  offset: 0, 0
+  index: -1
+bg_leaf_02
+  rotate: false
+  xy: 1583, 1301
+  size: 200, 269
+  orig: 202, 291
+  offset: 0, 0
+  index: -1
+bg_leaf_03
+  rotate: false
+  xy: 1537, 1536
+  size: 277, 195
+  orig: 277, 195
+  offset: 0, 0
+  index: -1
+bg_lian_00
+  rotate: true
+  xy: 1434, 700
+  size: 954, 224
+  orig: 954, 224
+  offset: 0, 0
+  index: -1
+bg_light_02
+  rotate: 270
+  xy: 1548, 291
+  size: 391, 347
+  orig: 391, 378
+  offset: 0, 1
+  index: -1
+bg_partition
+  rotate: true
+  xy: 1207, 785
+  size: 1219, 225
+  orig: 1219, 225
+  offset: 0, 0
+  index: -1
+bg_reflection_03
+  rotate: false
+  xy: 762, 1311
+  size: 414, 317
+  orig: 414, 317
+  offset: 0, 0
+  index: -1
+bg_reflection_07
+  rotate: 270
+  xy: 1280, 339
+  size: 463, 296
+  orig: 463, 319
+  offset: 0, 23
+  index: -1
+bg_reflection_09
+  rotate: false
+  xy: 2, 588
+  size: 463, 261
+  orig: 463, 261
+  offset: 0, 0
+  index: -1
+la_lian_01
+  rotate: false
+  xy: 78, 40
+  size: 981, 249
+  orig: 981, 249
+  offset: 0, 0
+  index: -1
+la_lian_02
+  rotate: 180
+  xy: 55, 189
+  size: 1005, 243
+  orig: 1006, 243
+  offset: 1, 0
+  index: -1
+la_lian_03
+  rotate: 180
+  xy: 2, 344
+  size: 1040, 232
+  orig: 1040, 232
+  offset: 0, 0
+  index: -1
+leaf_01
+  rotate: true
+  xy: 1359, 21
+  size: 316, 352
+  orig: 316, 352
+  offset: 0, 0
+  index: -1
+lens_flare
+  rotate: 270
+  xy: 1043, 3
+  size: 565, 395
+  orig: 565, 395
+  offset: 0, 0
+  index: -1
