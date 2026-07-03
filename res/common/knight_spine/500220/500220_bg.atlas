@@ -1,0 +1,88 @@
+
+500220_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/fangshe1/fangshe1_00000
+  rotate: false
+  xy: 2, 976
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1
+eff/fangshe1/fangshe1_00002
+  rotate: false
+  xy: 2, 4
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1
+eff/fangshe1/fangshe1_00004
+  rotate: false
+  xy: 913, 976
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1
+eff/fangshe1/fangshe1_00006
+  rotate: false
+  xy: 913, 4
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1
+
+500220_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/fangshe1/fangshe1_00008
+  rotate: false
+  xy: 2, 976
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1
+eff/fangshe1/fangshe1_00010
+  rotate: false
+  xy: 2, 4
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1
+eff/fangshe1/fangshe1_00012
+  rotate: false
+  xy: 913, 976
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1
+eff/fangshe1/fangshe1_00014
+  rotate: false
+  xy: 913, 4
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1
+
+500220_bg3.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/fangshe1/fangshe1_00016
+  rotate: false
+  xy: 2, 976
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1
+eff/fangshe1/fangshe1_00018
+  rotate: false
+  xy: 2, 4
+  size: 910, 971
+  orig: 910, 971
+  offset: 0, 0
+  index: -1

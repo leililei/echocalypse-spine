@@ -1,0 +1,257 @@
+
+80001001_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_beizi_xia
+  rotate: 180
+  xy: 2, 174
+  size: 788, 441
+  orig: 788, 492
+  offset: 0, 51
+  index: -1
+beijing_chuang_ying
+  rotate: false
+  xy: 878, 83
+  size: 943, 252
+  orig: 943, 252
+  offset: 0, 0
+  index: -1
+beijing_chuanglian1
+  rotate: 270
+  xy: 549, 103
+  size: 508, 680
+  orig: 575, 803
+  offset: 14, 0
+  index: -1
+beijing_chuangshang_hua1
+  rotate: false
+  xy: 161, 1911
+  size: 148, 124
+  orig: 148, 124
+  offset: 0, 0
+  index: -1
+beijing_chuangshang_hua2
+  rotate: false
+  xy: 2, 797
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1
+beijing_chuangshang_hua3
+  rotate: false
+  xy: 2, 930
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+beijing_chuangshang_hua4
+  rotate: false
+  xy: 74, 1580
+  size: 62, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+beijing_chuangshang_hua5
+  rotate: false
+  xy: 2, 1639
+  size: 258, 192
+  orig: 289, 228
+  offset: 0, 0
+  index: -1
+beijing_chuangshang_hua6
+  rotate: false
+  xy: 2, 612
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+beijing_chuangshang_hua7
+  rotate: false
+  xy: 248, 647
+  size: 73, 77
+  orig: 73, 78
+  offset: 0, 1
+  index: -1
+beijing_chuangshang_hua8
+  rotate: false
+  xy: 322, 618
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+beijing_chuangshang_hua9
+  rotate: false
+  xy: 2, 686
+  size: 224, 110
+  orig: 224, 110
+  offset: 0, 0
+  index: -1
+beijing_dabeijing
+  rotate: false
+  xy: 2, 584
+  size: 1968, 1452
+  orig: 2142, 1560
+  offset: 70, 0
+  index: -1
+beijing_diaodeng1
+  rotate: 270
+  xy: 231, 1866
+  size: 170, 611
+  orig: 174, 616
+  offset: 4, 1
+  index: -1
+beijing_diaodeng2
+  rotate: false
+  xy: 1924, 1219
+  size: 112, 422
+  orig: 112, 426
+  offset: 0, 0
+  index: -1
+beijing_diaodeng3
+  rotate: false
+  xy: 2, 49
+  size: 104, 315
+  orig: 104, 317
+  offset: 0, 0
+  index: -1
+beijing_guizi
+  rotate: false
+  xy: 1227, 337
+  size: 819, 409
+  orig: 842, 569
+  offset: 23, 160
+  index: -1
+beijing_hei_zhentou
+  rotate: 180
+  xy: 1629, 3
+  size: 417, 252
+  orig: 417, 252
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_1
+  rotate: false
+  xy: 347, 23
+  size: 163, 237
+  orig: 163, 237
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_10
+  rotate: false
+  xy: 2, 1832
+  size: 294, 203
+  orig: 294, 203
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_2
+  rotate: false
+  xy: 101, 51
+  size: 186, 166
+  orig: 186, 166
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_3
+  rotate: false
+  xy: 1348, 1983
+  size: 171, 52
+  orig: 171, 52
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_4
+  rotate: false
+  xy: 345, 1970
+  size: 235, 65
+  orig: 235, 65
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_5
+  rotate: false
+  xy: 2, 1004
+  size: 60, 124
+  orig: 60, 124
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_6
+  rotate: false
+  xy: 124, 613
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_7
+  rotate: false
+  xy: 2, 1493
+  size: 73, 187
+  orig: 73, 187
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_8
+  rotate: false
+  xy: 1813, 742
+  size: 97, 288
+  orig: 97, 288
+  offset: 0, 0
+  index: -1
+beijing_penzai_yezi
+  rotate: false
+  xy: 2, 1784
+  size: 122, 110
+  orig: 122, 110
+  offset: 0, 0
+  index: -1
+beijing_taideng
+  rotate: false
+  xy: 1725, 1621
+  size: 289, 414
+  orig: 307, 480
+  offset: 18, 66
+  index: -1
+
+80001001_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_bai_zhentou
+  rotate: false
+  xy: 797, 491
+  size: 457, 424
+  orig: 462, 424
+  offset: 0, 0
+  index: -1
+beijing_beizi_shang1
+  rotate: false
+  xy: 1120, 445
+  size: 485, 541
+  orig: 485, 541
+  offset: 0, 0
+  index: -1
+beijing_chuang_dan1
+  rotate: false
+  xy: 2, 387
+  size: 1735, 1002
+  orig: 2087, 1002
+  offset: 108, 0
+  index: -1
+beijing_chuanglian2
+  rotate: true
+  xy: 782, 235
+  size: 346, 937
+  orig: 365, 937
+  offset: 0, 0
+  index: -1
+beijing_lvzhi_9
+  rotate: 270
+  xy: 45, 130
+  size: 360, 742
+  orig: 360, 742
+  offset: 0, 0
+  index: -1
+beijing_zhentou
+  rotate: false
+  xy: 1230, 3
+  size: 518, 397
+  orig: 518, 414
+  offset: 0, 17
+  index: -1

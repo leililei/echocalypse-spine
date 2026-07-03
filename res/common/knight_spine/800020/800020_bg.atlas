@@ -1,0 +1,551 @@
+
+800020_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg_huli_body
+  rotate: false
+  xy: 2, 1231
+  size: 1322, 803
+  orig: 1322, 803
+  offset: 0, 0
+  index: -1
+Bg_huli_bozi
+  rotate: 180
+  xy: 1392, 57
+  size: 411, 336
+  orig: 411, 336
+  offset: 0, 0
+  index: -1
+Bg_huli_ear-r
+  rotate: 180
+  xy: 1216, 481
+  size: 210, 133
+  orig: 210, 133
+  offset: 0, 0
+  index: -1
+Bg_huli_head
+  rotate: 180
+  xy: 938, 200
+  size: 419, 332
+  orig: 419, 332
+  offset: 0, 0
+  index: -1
+Bg_huli_leg-r
+  rotate: 270
+  xy: 896, 666
+  size: 605, 386
+  orig: 605, 386
+  offset: 0, 0
+  index: -1
+Bg_huli_mao1
+  rotate: false
+  xy: 283, 315
+  size: 164, 97
+  orig: 164, 97
+  offset: 0, 0
+  index: -1
+Bg_huli_mao2
+  rotate: false
+  xy: 1107, 1964
+  size: 116, 69
+  orig: 116, 69
+  offset: 0, 0
+  index: -1
+Bg_huli_mao3
+  rotate: true
+  xy: 1905, 611
+  size: 210, 140
+  orig: 210, 140
+  offset: 0, 0
+  index: -1
+Bg_huli_mao4
+  rotate: false
+  xy: 1061, 597
+  size: 153, 210
+  orig: 153, 210
+  offset: 0, 0
+  index: -1
+Bg_huli_mao6
+  rotate: true
+  xy: 601, 594
+  size: 168, 244
+  orig: 168, 244
+  offset: 0, 0
+  index: -1
+Bg_huli_mao7
+  rotate: false
+  xy: 896, 1801
+  size: 364, 233
+  orig: 364, 233
+  offset: 0, 0
+  index: -1
+Bg_huli_mao8
+  rotate: false
+  xy: 782, 213
+  size: 201, 125
+  orig: 201, 125
+  offset: 0, 0
+  index: -1
+Bg_huli_mao9
+  rotate: false
+  xy: 1638, 1901
+  size: 105, 132
+  orig: 105, 132
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa1
+  rotate: true
+  xy: 1016, 1132
+  size: 292, 188
+  orig: 292, 195
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa10
+  rotate: true
+  xy: 1512, 979
+  size: 157, 224
+  orig: 157, 224
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa11
+  rotate: false
+  xy: 1343, 782
+  size: 133, 205
+  orig: 133, 205
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa12
+  rotate: true
+  xy: 368, 1097
+  size: 273, 398
+  orig: 273, 398
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa3
+  rotate: true
+  xy: 2, 1001
+  size: 229, 304
+  orig: 229, 304
+  offset: 0, 0
+  index: -1
+Bg_huli_shangyanpi
+  rotate: false
+  xy: 1684, 1677
+  size: 125, 85
+  orig: 125, 85
+  offset: 0, 0
+  index: -1
+Bg_huli_tail1
+  rotate: true
+  xy: 1199, 589
+  size: 916, 847
+  orig: 916, 847
+  offset: 0, 0
+  index: -1
+Bg_huli_tail2
+  rotate: 180
+  xy: 108, 280
+  size: 1062, 595
+  orig: 1062, 595
+  offset: 0, 0
+  index: -1
+Bg_huli_tail3
+  rotate: 270
+  xy: 2, 764
+  size: 702, 1005
+  orig: 702, 1005
+  offset: 0, 0
+  index: -1
+Bg_huli_tail5
+  rotate: 270
+  xy: 1258, 79
+  size: 592, 788
+  orig: 592, 788
+  offset: 0, 0
+  index: -1
+Bg_huli_xiayanpi
+  rotate: false
+  xy: 1922, 1509
+  size: 124, 62
+  orig: 124, 62
+  offset: 0, 0
+  index: -1
+Bg_huli_yanzhu
+  rotate: false
+  xy: 855, 1996
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+Bg_men_1
+  rotate: true
+  xy: 1242, 970
+  size: 1064, 496
+  orig: 1064, 496
+  offset: 0, 0
+  index: -1
+Bg_shachen2
+  rotate: 180
+  xy: 1079, 12
+  size: 313, 230
+  orig: 313, 230
+  offset: 0, 0
+  index: -1
+Bg_shan
+  rotate: 180
+  xy: 2, 322
+  size: 301, 386
+  orig: 316, 386
+  offset: 0, 0
+  index: -1
+Bg_stone1
+  rotate: false
+  xy: 1191, 1716
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+Bg_stone2
+  rotate: false
+  xy: 656, 2008
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Bg_stone3
+  rotate: false
+  xy: 272, 2006
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Bg_stone4
+  rotate: false
+  xy: 522, 1374
+  size: 98, 60
+  orig: 98, 60
+  offset: 0, 0
+  index: -1
+Bg_stone5
+  rotate: false
+  xy: 1207, 1277
+  size: 133, 159
+  orig: 133, 159
+  offset: 0, 0
+  index: -1
+Bg_stone6
+  rotate: false
+  xy: 217, 1982
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Bg_stone7
+  rotate: false
+  xy: 1713, 1408
+  size: 92, 67
+  orig: 92, 67
+  offset: 0, 0
+  index: -1
+Bg_stone8
+  rotate: false
+  xy: 2, 1997
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+Bg_stone_d
+  rotate: false
+  xy: 2, 3
+  size: 1133, 310
+  orig: 1133, 310
+  offset: 0, 0
+  index: -1
+Bg_stone_d2
+  rotate: true
+  xy: 1665, 1476
+  size: 557, 329
+  orig: 557, 329
+  offset: 0, 0
+  index: -1
+Bg_yun_1
+  rotate: false
+  xy: 2, 10
+  size: 331, 84
+  orig: 331, 84
+  offset: 0, 0
+  index: -1
+Bg_yun_2
+  rotate: 180
+  xy: 1849, 12
+  size: 197, 122
+  orig: 210, 122
+  offset: 0, 0
+  index: -1
+Bg_yun_4
+  rotate: false
+  xy: 712, 1929
+  size: 175, 104
+  orig: 175, 104
+  offset: 0, 0
+  index: -1
+Bg_yun_5
+  rotate: true
+  xy: 2, 1835
+  size: 198, 214
+  orig: 198, 214
+  offset: 0, 0
+  index: -1
+Bg_yun_8
+  rotate: true
+  xy: 1961, 1610
+  size: 273, 85
+  orig: 273, 85
+  offset: 0, 0
+  index: -1
+
+800020_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg_huli_ear-l
+  rotate: true
+  xy: 774, 119
+  size: 214, 323
+  orig: 214, 323
+  offset: 0, 0
+  index: -1
+Bg_huli_foot-l
+  rotate: 180
+  xy: 2, 70
+  size: 362, 232
+  orig: 362, 232
+  offset: 0, 0
+  index: -1
+Bg_huli_foot-r
+  rotate: true
+  xy: 1183, 1180
+  size: 207, 365
+  orig: 207, 365
+  offset: 0, 0
+  index: -1
+Bg_huli_houtui_n
+  rotate: true
+  xy: 1092, 629
+  size: 324, 544
+  orig: 324, 544
+  offset: 0, 0
+  index: -1
+Bg_huli_houtui_w
+  rotate: true
+  xy: 78, 1276
+  size: 355, 878
+  orig: 355, 878
+  offset: 0, 0
+  index: -1
+Bg_huli_leg-l1
+  rotate: true
+  xy: 1098, 120
+  size: 274, 515
+  orig: 274, 515
+  offset: 0, 0
+  index: -1
+Bg_huli_leg-l2
+  rotate: 270
+  xy: 2, 299
+  size: 275, 445
+  orig: 275, 445
+  offset: 0, 0
+  index: -1
+Bg_huli_mao5
+  rotate: true
+  xy: 888, 1266
+  size: 178, 203
+  orig: 178, 203
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa2
+  rotate: false
+  xy: 832, 1550
+  size: 210, 287
+  orig: 210, 287
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa4
+  rotate: 180
+  xy: 1141, 512
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa5
+  rotate: false
+  xy: 2, 633
+  size: 422, 406
+  orig: 422, 406
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa6
+  rotate: false
+  xy: 798, 519
+  size: 308, 192
+  orig: 308, 192
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa7
+  rotate: 270
+  xy: 1263, 10
+  size: 250, 363
+  orig: 250, 363
+  offset: 0, 0
+  index: -1
+Bg_huli_maofa8
+  rotate: 180
+  xy: 231, 122
+  size: 411, 247
+  orig: 424, 267
+  offset: 13, 0
+  index: -1
+Bg_huli_maofa9
+  rotate: false
+  xy: 1255, 1591
+  size: 216, 375
+  orig: 216, 375
+  offset: 0, 0
+  index: -1
+Bg_huli_tail4
+  rotate: 180
+  xy: 1476, 1310
+  size: 500, 656
+  orig: 500, 656
+  offset: 0, 0
+  index: -1
+Bg_huli_tail6
+  rotate: 270
+  xy: 1343, 539
+  size: 749, 703
+  orig: 749, 703
+  offset: 0, 0
+  index: -1
+Bg_huli_tail7
+  rotate: 270
+  xy: 706, 1382
+  size: 585, 923
+  orig: 585, 923
+  offset: 0, 0
+  index: -1
+Bg_huli_tail8
+  rotate: false
+  xy: 2, 721
+  size: 1074, 608
+  orig: 1074, 608
+  offset: 0, 0
+  index: -1
+Bg_huli_tail9
+  rotate: false
+  xy: 568, 997
+  size: 612, 468
+  orig: 612, 468
+  offset: 0, 0
+  index: -1
+Bg_men_2
+  rotate: true
+  xy: 602, 316
+  size: 176, 779
+  orig: 176, 786
+  offset: 0, 7
+  index: -1
+Bg_men_3
+  rotate: true
+  xy: 1611, 143
+  size: 271, 434
+  orig: 271, 434
+  offset: 0, 0
+  index: -1
+Bg_shachen1
+  rotate: false
+  xy: 346, 1176
+  size: 206, 131
+  orig: 206, 131
+  offset: 0, 0
+  index: -1
+Bg_shachen3
+  rotate: true
+  xy: 544, 3
+  size: 367, 231
+  orig: 367, 231
+  offset: 0, 0
+  index: -1
+Bg_stone_d1
+  rotate: false
+  xy: 1343, 356
+  size: 691, 226
+  orig: 691, 226
+  offset: 0, 0
+  index: -1
+Bg_stone_d3
+  rotate: 180
+  xy: 1112, 923
+  size: 934, 541
+  orig: 934, 541
+  offset: 0, 0
+  index: -1
+Bg_stone_d4
+  rotate: false
+  xy: 2, 1461
+  size: 829, 506
+  orig: 829, 506
+  offset: 0, 0
+  index: -1
+Bg_stone_d5
+  rotate: 180
+  xy: 444, 893
+  size: 667, 233
+  orig: 667, 233
+  offset: 0, 0
+  index: -1
+Bg_wu
+  rotate: false
+  xy: 426, 449
+  size: 371, 272
+  orig: 460, 324
+  offset: 56, 29
+  index: -1
+Bg_yun
+  rotate: false
+  xy: 1797, 622
+  size: 248, 211
+  orig: 248, 216
+  offset: 0, 0
+  index: -1
+Bg_yun_3
+  rotate: false
+  xy: 2, 611
+  size: 145, 188
+  orig: 145, 188
+  offset: 0, 0
+  index: -1
+Bg_yun_6
+  rotate: false
+  xy: 2, 1591
+  size: 126, 220
+  orig: 126, 220
+  offset: 0, 0
+  index: -1
+Bg_yun_7
+  rotate: false
+  xy: 576, 1027
+  size: 210, 137
+  orig: 210, 137
+  offset: 0, 0
+  index: -1
+Bg_yun_9
+  rotate: false
+  xy: 1650, 69
+  size: 384, 110
+  orig: 384, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,179 @@
+
+210004_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huoyan/huoyan_00012
+  rotate: false
+  xy: 2, 1375
+  size: 818, 624
+  orig: 818, 624
+  offset: 0, 0
+  index: -1
+effect/huoyan/huoyan_00016
+  rotate: false
+  xy: 2, 749
+  size: 795, 624
+  orig: 818, 624
+  offset: 23, 0
+  index: -1
+effect/huoyan/huoyan_00020
+  rotate: 180
+  xy: 151, 3
+  size: 792, 615
+  orig: 818, 624
+  offset: 26, 9
+  index: -1
+effect/huoyan/huoyan_00024
+  rotate: 270
+  xy: 1298, 288
+  size: 786, 608
+  orig: 818, 624
+  offset: 32, 10
+  index: -1
+effect/huoyan/huoyan_00028
+  rotate: false
+  xy: 822, 1383
+  size: 780, 617
+  orig: 818, 624
+  offset: 38, 7
+  index: -1
+effect/huoyan/huoyan_00068
+  rotate: false
+  xy: 516, 339
+  size: 793, 602
+  orig: 818, 624
+  offset: 25, 8
+  index: -1
+effect/huoyan/huoyan_00084
+  rotate: 180
+  xy: 805, 911
+  size: 775, 600
+  orig: 818, 624
+  offset: 37, 8
+  index: -1
+
+210004_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huoyan/huoyan_00000
+  rotate: true
+  xy: 2, 3
+  size: 759, 586
+  orig: 818, 624
+  offset: 40, 11
+  index: -1
+effect/huoyan/huoyan_00008
+  rotate: false
+  xy: 2, 1359
+  size: 782, 589
+  orig: 818, 624
+  offset: 36, 7
+  index: -1
+effect/huoyan/huoyan_00032
+  rotate: 180
+  xy: 504, 309
+  size: 767, 614
+  orig: 818, 624
+  offset: 38, 8
+  index: -1
+effect/huoyan/huoyan_00036
+  rotate: 180
+  xy: 129, 869
+  size: 778, 610
+  orig: 818, 624
+  offset: 32, 10
+  index: -1
+effect/huoyan/huoyan_00048
+  rotate: false
+  xy: 1272, 243
+  size: 774, 594
+  orig: 818, 624
+  offset: 41, 10
+  index: -1
+effect/huoyan/huoyan_00064
+  rotate: true
+  xy: 1404, 1157
+  size: 790, 623
+  orig: 818, 624
+  offset: 28, 0
+  index: -1
+effect/huoyan/huoyan_00072
+  rotate: false
+  xy: 821, 718
+  size: 780, 613
+  orig: 818, 624
+  offset: 38, 11
+  index: -1
+effect/huoyan/huoyan_00088
+  rotate: 180
+  xy: 784, 1334
+  size: 758, 613
+  orig: 818, 624
+  offset: 36, 11
+  index: -1
+
+210004_bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huoyan/huoyan_00004
+  rotate: false
+  xy: 764, 1444
+  size: 777, 578
+  orig: 818, 624
+  offset: 41, 11
+  index: -1
+effect/huoyan/huoyan_00040
+  rotate: true
+  xy: 1159, 591
+  size: 763, 561
+  orig: 818, 624
+  offset: 44, 11
+  index: -1
+effect/huoyan/huoyan_00044
+  rotate: false
+  xy: 1215, 66
+  size: 755, 551
+  orig: 818, 624
+  offset: 41, 11
+  index: -1
+effect/huoyan/huoyan_00052
+  rotate: 180
+  xy: 2, 331
+  size: 774, 614
+  orig: 818, 624
+  offset: 44, 10
+  index: -1
+effect/huoyan/huoyan_00056
+  rotate: false
+  xy: 2, 1415
+  size: 766, 607
+  orig: 818, 624
+  offset: 43, 12
+  index: -1
+effect/huoyan/huoyan_00060
+  rotate: true
+  xy: 644, 3
+  size: 782, 619
+  orig: 818, 624
+  offset: 36, 5
+  index: -1
+effect/huoyan/huoyan_00076
+  rotate: true
+  xy: 642, 775
+  size: 780, 618
+  orig: 818, 624
+  offset: 28, 6
+  index: -1
+effect/huoyan/huoyan_00080
+  rotate: 180
+  xy: 2, 927
+  size: 793, 617
+  orig: 818, 624
+  offset: 25, 7
+  index: -1

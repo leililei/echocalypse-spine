@@ -1,0 +1,179 @@
+
+200004_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huoyan2/huoyan2_00024
+  rotate: false
+  xy: 2, 1274
+  size: 809, 628
+  orig: 812, 646
+  offset: 3, 18
+  index: -1
+effect/huoyan2/huoyan2_00028
+  rotate: false
+  xy: 810, 1294
+  size: 812, 608
+  orig: 812, 646
+  offset: 0, 29
+  index: -1
+effect/huoyan2/huoyan2_00036
+  rotate: 180
+  xy: 807, 4
+  size: 807, 597
+  orig: 812, 646
+  offset: 5, 25
+  index: -1
+effect/huoyan2/huoyan2_00068
+  rotate: true
+  xy: 690, 634
+  size: 810, 603
+  orig: 812, 646
+  offset: 2, 26
+  index: -1
+effect/huoyan2/huoyan2_00072
+  rotate: 180
+  xy: 2, 267
+  size: 812, 606
+  orig: 812, 646
+  offset: 0, 30
+  index: -1
+effect/huoyan2/huoyan2_00080
+  rotate: true
+  xy: 1110, 404
+  size: 809, 599
+  orig: 812, 646
+  offset: 1, 29
+  index: -1
+effect/huoyan2/huoyan2_00084
+  rotate: 180
+  xy: 2, 849
+  size: 810, 617
+  orig: 812, 646
+  offset: 2, 29
+  index: -1
+
+200004_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huoyan2/huoyan2_00000
+  rotate: 180
+  xy: 1177, 3
+  size: 795, 609
+  orig: 812, 646
+  offset: 10, 21
+  index: -1
+effect/huoyan2/huoyan2_00004
+  rotate: true
+  xy: 651, 841
+  size: 808, 618
+  orig: 812, 646
+  offset: 4, 28
+  index: -1
+effect/huoyan2/huoyan2_00016
+  rotate: true
+  xy: 1127, 609
+  size: 809, 590
+  orig: 812, 646
+  offset: 3, 28
+  index: -1
+effect/huoyan2/huoyan2_00020
+  rotate: 180
+  xy: 2, 1008
+  size: 810, 605
+  orig: 812, 646
+  offset: 2, 29
+  index: -1
+effect/huoyan2/huoyan2_00048
+  rotate: true
+  xy: 602, 45
+  size: 795, 604
+  orig: 812, 646
+  offset: 17, 22
+  index: -1
+effect/huoyan2/huoyan2_00052
+  rotate: 180
+  xy: 2, 465
+  size: 798, 616
+  orig: 812, 646
+  offset: 14, 30
+  index: -1
+effect/huoyan2/huoyan2_00076
+  rotate: false
+  xy: 2, 1416
+  size: 810, 614
+  orig: 812, 646
+  offset: 2, 27
+  index: -1
+effect/huoyan2/huoyan2_00088
+  rotate: false
+  xy: 1033, 1434
+  size: 786, 595
+  orig: 812, 646
+  offset: 17, 27
+  index: -1
+
+200004_bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huoyan2/huoyan2_00008
+  rotate: true
+  xy: 1459, 778
+  size: 795, 587
+  orig: 812, 646
+  offset: 17, 27
+  index: -1
+effect/huoyan2/huoyan2_00012
+  rotate: 270
+  xy: 2, 135
+  size: 802, 590
+  orig: 812, 646
+  offset: 10, 29
+  index: -1
+effect/huoyan2/huoyan2_00032
+  rotate: false
+  xy: 2, 1289
+  size: 803, 610
+  orig: 812, 646
+  offset: 9, 29
+  index: -1
+effect/huoyan2/huoyan2_00040
+  rotate: 180
+  xy: 797, 924
+  size: 812, 583
+  orig: 812, 646
+  offset: 0, 27
+  index: -1
+effect/huoyan2/huoyan2_00044
+  rotate: 180
+  xy: 627, 450
+  size: 812, 604
+  orig: 812, 646
+  offset: 0, 22
+  index: -1
+effect/huoyan2/huoyan2_00056
+  rotate: false
+  xy: 804, 1306
+  size: 797, 594
+  orig: 812, 646
+  offset: 15, 30
+  index: -1
+effect/huoyan2/huoyan2_00060
+  rotate: false
+  xy: 1250, 3
+  size: 796, 620
+  orig: 812, 646
+  offset: 16, 26
+  index: -1
+effect/huoyan2/huoyan2_00064
+  rotate: 180
+  xy: 8, 907
+  size: 789, 598
+  orig: 812, 646
+  offset: 23, 24
+  index: -1

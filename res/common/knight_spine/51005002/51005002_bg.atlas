@@ -1,0 +1,68 @@
+
+51005002_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+layer244
+  rotate: false
+  xy: 1435, 431
+  size: 231, 320
+  orig: 231, 320
+  offset: 0, 0
+  index: -1
+layer245
+  rotate: false
+  xy: 2, 282
+  size: 1408, 1456
+  orig: 1408, 1456
+  offset: 0, 0
+  index: -1
+layer248
+  rotate: 180
+  xy: 69, 4
+  size: 1603, 426
+  orig: 1603, 426
+  offset: 0, 0
+  index: -1
+layer34
+  rotate: false
+  xy: 29, 1575
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+layer44
+  rotate: false
+  xy: 2, 1503
+  size: 34, 138
+  orig: 34, 138
+  offset: 0, 0
+  index: -1
+layer45
+  rotate: false
+  xy: 2, 1642
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+layer46
+  rotate: false
+  xy: 26, 1490
+  size: 22, 83
+  orig: 22, 83
+  offset: 0, 0
+  index: -1
+
+51005002_bg2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+layer249
+  rotate: false
+  xy: 2, 3
+  size: 1921, 815
+  orig: 1921, 921
+  offset: 0, 0
+  index: -1

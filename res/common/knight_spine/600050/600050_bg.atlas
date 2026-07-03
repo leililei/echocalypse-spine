@@ -1,0 +1,480 @@
+
+600050_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: true
+  xy: 1574, 761
+  size: 714, 429
+  orig: 822, 828
+  offset: 0, 0
+  index: -1
+bj3
+  rotate: true
+  xy: 347, 788
+  size: 914, 820
+  orig: 915, 828
+  offset: 1, 0
+  index: -1
+bj4
+  rotate: false
+  xy: 2, 610
+  size: 715, 1380
+  orig: 818, 1380
+  offset: 74, 0
+  index: -1
+effect/guang_01/guang_00000
+  rotate: 180
+  xy: 1099, 1469
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00015
+  rotate: true
+  xy: 1278, 51
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00024
+  rotate: false
+  xy: 2, 87
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00036
+  rotate: true
+  xy: 739, 192
+  size: 736, 517
+  orig: 736, 522
+  offset: 0, 4
+  index: -1
+effect/guang_01/guang_00039
+  rotate: 270
+  xy: 1104, 782
+  size: 736, 520
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00000
+  rotate: false
+  xy: 679, 1703
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00003
+  rotate: false
+  xy: 1793, 196
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00000
+  rotate: false
+  xy: 2, 1882
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00003
+  rotate: false
+  xy: 2, 1772
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00006
+  rotate: false
+  xy: 2, 1662
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00009
+  rotate: false
+  xy: 2, 1552
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00012
+  rotate: false
+  xy: 370, 1831
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00015
+  rotate: false
+  xy: 521, 1882
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00018
+  rotate: false
+  xy: 933, 1882
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00021
+  rotate: false
+  xy: 933, 1772
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00024
+  rotate: false
+  xy: 933, 1662
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00027
+  rotate: false
+  xy: 1084, 1882
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00030
+  rotate: false
+  xy: 210, 611
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00033
+  rotate: false
+  xy: 361, 678
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00036
+  rotate: false
+  xy: 512, 691
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00039
+  rotate: false
+  xy: 1782, 1440
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00042
+  rotate: false
+  xy: 1799, 1882
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00045
+  rotate: false
+  xy: 739, 205
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00048
+  rotate: false
+  xy: 1837, 1772
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00051
+  rotate: false
+  xy: 1837, 1662
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00054
+  rotate: false
+  xy: 1837, 1552
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/zuoxia_01/zuoxia_01_00057
+  rotate: false
+  xy: 739, 95
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: 270
+  xy: 988, 3
+  size: 351, 412
+  orig: 428, 504
+  offset: 77, 85
+  index: -1
+
+600050_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guang_01/guang_00003
+  rotate: true
+  xy: 662, 461
+  size: 736, 521
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00006
+  rotate: 180
+  xy: 2, 3
+  size: 736, 520
+  orig: 736, 522
+  offset: 0, 2
+  index: -1
+effect/guang_01/guang_00012
+  rotate: false
+  xy: 2, 1424
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00018
+  rotate: 180
+  xy: 2, 953
+  size: 736, 520
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00027
+  rotate: true
+  xy: 1136, 677
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00030
+  rotate: true
+  xy: 1418, 59
+  size: 736, 521
+  orig: 736, 522
+  offset: 0, 1
+  index: -1
+effect/guang_01/guang_00033
+  rotate: 180
+  xy: 1139, 1424
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00042
+  rotate: false
+  xy: 2, 473
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00045
+  rotate: 270
+  xy: 699, 1198
+  size: 735, 522
+  orig: 736, 522
+  offset: 1, 0
+  index: -1
+effect/guang_01/guang_00048
+  rotate: 180
+  xy: 732, 47
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00006
+  rotate: false
+  xy: 1649, 797
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00009
+  rotate: false
+  xy: 1659, 1139
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+
+600050_bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj2
+  rotate: 270
+  xy: 758, 3
+  size: 917, 690
+  orig: 932, 690
+  offset: 15, 0
+  index: -1
+effect/guang_01/guang_00009
+  rotate: false
+  xy: 2, 1525
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00021
+  rotate: false
+  xy: 2, 548
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00051
+  rotate: 180
+  xy: 2, 1043
+  size: 733, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00054
+  rotate: true
+  xy: 662, 527
+  size: 730, 519
+  orig: 736, 522
+  offset: 0, 1
+  index: -1
+effect/guang_01/guang_00057
+  rotate: 180
+  xy: 2, 75
+  size: 736, 520
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/guang_01/guang_00059
+  rotate: 270
+  xy: 675, 1311
+  size: 736, 522
+  orig: 736, 522
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00012
+  rotate: false
+  xy: 1116, 1759
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00015
+  rotate: false
+  xy: 1147, 1123
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00018
+  rotate: false
+  xy: 1162, 3
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00021
+  rotate: false
+  xy: 1199, 1470
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00024
+  rotate: false
+  xy: 1339, 293
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00027
+  rotate: false
+  xy: 1402, 1180
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00030
+  rotate: true
+  xy: 1371, 1794
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00033
+  rotate: true
+  xy: 1402, 925
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00036
+  rotate: false
+  xy: 1450, 636
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00039
+  rotate: true
+  xy: 1416, 38
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00042
+  rotate: false
+  xy: 1453, 1505
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00045
+  rotate: false
+  xy: 1593, 346
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00048
+  rotate: false
+  xy: 1656, 1215
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00051
+  rotate: true
+  xy: 1660, 1794
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00054
+  rotate: false
+  xy: 1705, 925
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1
+effect/shitouzhuti_01/shitouzhuti_01_00057
+  rotate: false
+  xy: 1706, 56
+  size: 253, 288
+  orig: 253, 288
+  offset: 0, 0
+  index: -1

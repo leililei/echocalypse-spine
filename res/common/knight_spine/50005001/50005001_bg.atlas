@@ -1,0 +1,26 @@
+
+50005001_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2
+  size: 1806, 2038
+  orig: 1814, 2044
+  offset: 5, 5
+  index: -1
+
+50005001_bg2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian_16
+  rotate: false
+  xy: 2, 2
+  size: 291, 442
+  orig: 293, 444
+  offset: 1, 1
+  index: -1

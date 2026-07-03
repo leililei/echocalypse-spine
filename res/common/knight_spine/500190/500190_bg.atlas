@@ -1,0 +1,265 @@
+
+500190_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_guang_1
+  rotate: false
+  xy: 2, 771
+  size: 1544, 1275
+  orig: 1544, 1275
+  offset: 0, 0
+  index: -1
+beijing_guang_2
+  rotate: true
+  xy: 517, 3
+  size: 472, 401
+  orig: 472, 401
+  offset: 0, 0
+  index: -1
+beijing_guang_5
+  rotate: false
+  xy: 1383, 1693
+  size: 621, 354
+  orig: 621, 354
+  offset: 0, 0
+  index: -1
+beijing_guang_6
+  rotate: true
+  xy: 1511, 787
+  size: 829, 357
+  orig: 829, 357
+  offset: 0, 0
+  index: -1
+beijing_guang_7
+  rotate: false
+  xy: 2, 303
+  size: 514, 486
+  orig: 514, 486
+  offset: 0, 0
+  index: -1
+beijing_guang_8
+  rotate: false
+  xy: 981, 3
+  size: 784, 782
+  orig: 784, 782
+  offset: 0, 0
+  index: -1
+beijing_huli_1_1
+  rotate: false
+  xy: 1347, 787
+  size: 148, 169
+  orig: 149, 183
+  offset: 1, 14
+  index: -1
+beijing_huli_1_2
+  rotate: false
+  xy: 2, 1570
+  size: 166, 204
+  orig: 179, 204
+  offset: 0, 0
+  index: -1
+beijing_huli_1_3
+  rotate: false
+  xy: 2, 1178
+  size: 57, 123
+  orig: 83, 123
+  offset: 0, 0
+  index: -1
+beijing_huli_1_4
+  rotate: false
+  xy: 1224, 787
+  size: 107, 127
+  orig: 127, 127
+  offset: 20, 0
+  index: -1
+beijing_huli_1_5
+  rotate: false
+  xy: 517, 484
+  size: 64, 109
+  orig: 64, 109
+  offset: 0, 0
+  index: -1
+beijing_huli_1_6
+  rotate: false
+  xy: 627, 526
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+beijing_huli_1_7
+  rotate: false
+  xy: 2, 47
+  size: 214, 255
+  orig: 262, 268
+  offset: 0, 13
+  index: -1
+beijing_huli_2_1
+  rotate: false
+  xy: 2, 1775
+  size: 178, 271
+  orig: 178, 271
+  offset: 0, 0
+  index: -1
+beijing_huli_2_2
+  rotate: false
+  xy: 888, 633
+  size: 90, 142
+  orig: 90, 147
+  offset: 0, 5
+  index: -1
+beijing_huli_2_3
+  rotate: false
+  xy: 810, 478
+  size: 144, 126
+  orig: 144, 126
+  offset: 0, 0
+  index: -1
+beijing_huli_2_4
+  rotate: false
+  xy: 12, 1460
+  size: 94, 117
+  orig: 94, 117
+  offset: 0, 0
+  index: -1
+beijing_huli_2_5
+  rotate: false
+  xy: 2, 799
+  size: 189, 107
+  orig: 194, 127
+  offset: 0, 0
+  index: -1
+beijing_huli_2_6
+  rotate: false
+  xy: 337, 72
+  size: 167, 230
+  orig: 204, 232
+  offset: 35, 2
+  index: -1
+beijing_huli_2_7
+  rotate: false
+  xy: 1760, 708
+  size: 133, 165
+  orig: 133, 165
+  offset: 0, 0
+  index: -1
+beijing_huli_2_8
+  rotate: false
+  xy: 583, 493
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+beijing_huli_2_9
+  rotate: false
+  xy: 1548, 1483
+  size: 50, 131
+  orig: 50, 131
+  offset: 0, 0
+  index: -1
+beijing_huli_3_1
+  rotate: false
+  xy: 2, 911
+  size: 39, 67
+  orig: 39, 68
+  offset: 0, 1
+  index: -1
+beijing_huli_3_2
+  rotate: false
+  xy: 864, 2015
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+beijing_huli_3_3
+  rotate: false
+  xy: 1088, 1968
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+beijing_huli_3_4
+  rotate: false
+  xy: 182, 1937
+  size: 88, 110
+  orig: 114, 110
+  offset: 26, 0
+  index: -1
+beijing_huli_3_5
+  rotate: false
+  xy: 946, 1988
+  size: 126, 60
+  orig: 153, 69
+  offset: 0, 8
+  index: -1
+beijing_huli_3_6
+  rotate: false
+  xy: 350, 2013
+  size: 73, 33
+  orig: 76, 34
+  offset: 3, 0
+  index: -1
+beijing_huli_4_1
+  rotate: false
+  xy: 1226, 1916
+  size: 125, 131
+  orig: 126, 131
+  offset: 1, 0
+  index: -1
+beijing_huli_4_2
+  rotate: false
+  xy: 1451, 896
+  size: 41, 137
+  orig: 42, 137
+  offset: 0, 0
+  index: -1
+beijing_huli_4_3
+  rotate: false
+  xy: 271, 1987
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+beijing_huli_4_4
+  rotate: false
+  xy: 1504, 1615
+  size: 134, 153
+  orig: 135, 153
+  offset: 1, 0
+  index: -1
+beijing_huli_4_5
+  rotate: false
+  xy: 2, 1298
+  size: 77, 159
+  orig: 93, 159
+  offset: 0, 0
+  index: -1
+beijing_huli_4_6
+  rotate: false
+  xy: 2, 1677
+  size: 62, 97
+  orig: 62, 97
+  offset: 0, 0
+  index: -1
+xing_1
+  rotate: false
+  xy: 178, 3
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+xing_3
+  rotate: false
+  xy: 517, 596
+  size: 183, 184
+  orig: 183, 184
+  offset: 0, 0
+  index: -1
+xing_4
+  rotate: false
+  xy: 703, 587
+  size: 183, 184
+  orig: 183, 184
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,599 @@
+
+510040_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao115
+  rotate: true
+  xy: 1245, 356
+  size: 613, 253
+  orig: 613, 266
+  offset: 0, 0
+  index: -1
+xuexiao/huoyan/huoyan_06
+  rotate: false
+  xy: 1788, 175
+  size: 247, 388
+  orig: 296, 415
+  offset: 22, 18
+  index: -1
+xuexiao/huoyan/huoyan_14
+  rotate: false
+  xy: 1097, 1648
+  size: 222, 397
+  orig: 296, 415
+  offset: 46, 18
+  index: -1
+xuexiao/huoyan/huoyan_20
+  rotate: 180
+  xy: 1838, 548
+  size: 208, 397
+  orig: 296, 415
+  offset: 52, 18
+  index: -1
+xuexiao/lizi_00
+  rotate: false
+  xy: 540, 1996
+  size: 48, 48
+  orig: 55, 55
+  offset: 4, 4
+  index: -1
+xuexiao/suipian2/suipian2_00004
+  rotate: true
+  xy: 1963, 1720
+  size: 324, 81
+  orig: 372, 103
+  offset: 20, 9
+  index: -1
+xuexiao/suipian2/suipian2_00016
+  rotate: true
+  xy: 1121, 355
+  size: 319, 91
+  orig: 372, 103
+  offset: 39, 6
+  index: -1
+xuexiao/suipian2/suipian2_00018
+  rotate: true
+  xy: 892, 1390
+  size: 314, 93
+  orig: 372, 103
+  offset: 46, 5
+  index: -1
+xuexiao/suipian2/suipian2_00020
+  rotate: true
+  xy: 1947, 960
+  size: 362, 98
+  orig: 372, 103
+  offset: 0, 3
+  index: -1
+xuexiao/suipian2/suipian2_00022
+  rotate: false
+  xy: 2, 75
+  size: 363, 100
+  orig: 372, 103
+  offset: 0, 2
+  index: -1
+xuexiao/suipian2/suipian2_00024
+  rotate: true
+  xy: 1922, 1324
+  size: 362, 99
+  orig: 372, 103
+  offset: 4, 1
+  index: -1
+xuexiao/suipian2/suipian2_00032
+  rotate: true
+  xy: 798, 1384
+  size: 320, 92
+  orig: 372, 103
+  offset: 33, 0
+  index: -1
+xuexiao/suipian2/suipian2_00036
+  rotate: true
+  xy: 1954, 3
+  size: 356, 92
+  orig: 372, 103
+  offset: 0, 1
+  index: -1
+xuexiao/wqguang/wqguang_00023
+  rotate: false
+  xy: 787, 1706
+  size: 308, 338
+  orig: 309, 341
+  offset: 1, 3
+  index: -1
+xuexiao/youbian/00004
+  rotate: 180
+  xy: 1537, 47
+  size: 348, 1005
+  orig: 365, 1020
+  offset: 5, 0
+  index: -1
+xuexiao/youbian/00010
+  rotate: 180
+  xy: 754, 367
+  size: 353, 1008
+  orig: 365, 1020
+  offset: 6, 0
+  index: -1
+xuexiao/youbian/00012
+  rotate: 180
+  xy: 1602, 993
+  size: 359, 1003
+  orig: 365, 1020
+  offset: 6, 0
+  index: -1
+xuexiao/youbian/00020
+  rotate: 180
+  xy: 1323, 1036
+  size: 327, 1009
+  orig: 365, 1020
+  offset: 20, 0
+  index: -1
+xuexiao/youbian/00022
+  rotate: 270
+  xy: 648, 23
+  size: 343, 1013
+  orig: 365, 1020
+  offset: 14, 0
+  index: -1
+xuexiao/youbian/00024
+  rotate: false
+  xy: 454, 1027
+  size: 343, 1018
+  orig: 365, 1020
+  offset: 7, 0
+  index: -1
+xuexiao/youbian/00026
+  rotate: false
+  xy: 454, 73
+  size: 352, 1020
+  orig: 365, 1020
+  offset: 2, 0
+  index: -1
+xuexiao/youbian/00028
+  rotate: false
+  xy: 1032, 676
+  size: 350, 1020
+  orig: 365, 1020
+  offset: 4, 0
+  index: -1
+xuexiao/zuobian/00004
+  rotate: false
+  xy: 2, 1423
+  size: 450, 621
+  orig: 450, 621
+  offset: 0, 0
+  index: -1
+xuexiao/zuobian/00008
+  rotate: false
+  xy: 2, 800
+  size: 450, 621
+  orig: 450, 621
+  offset: 0, 0
+  index: -1
+xuexiao/zuobian/00022
+  rotate: false
+  xy: 2, 177
+  size: 450, 621
+  orig: 450, 621
+  offset: 0, 0
+  index: -1
+
+510040_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuexiao/huoyan/huoyan_00
+  rotate: 270
+  xy: 446, 6
+  size: 208, 379
+  orig: 296, 415
+  offset: 48, 17
+  index: -1
+xuexiao/huoyan/huoyan_08
+  rotate: true
+  xy: 954, 863
+  size: 218, 397
+  orig: 296, 415
+  offset: 44, 18
+  index: -1
+xuexiao/huoyan/huoyan_10
+  rotate: 180
+  xy: 1051, 49
+  size: 242, 398
+  orig: 296, 415
+  offset: 21, 17
+  index: -1
+xuexiao/huoyan/huoyan_16
+  rotate: 180
+  xy: 1777, 331
+  size: 213, 388
+  orig: 296, 415
+  offset: 48, 18
+  index: -1
+xuexiao/huoyan/huoyan_22
+  rotate: false
+  xy: 1831, 718
+  size: 215, 397
+  orig: 296, 415
+  offset: 44, 18
+  index: -1
+xuexiao/suipian2/suipian2_00000
+  rotate: true
+  xy: 1059, 514
+  size: 329, 76
+  orig: 372, 103
+  offset: 10, 10
+  index: -1
+xuexiao/suipian2/suipian2_00006
+  rotate: false
+  xy: 769, 3
+  size: 319, 82
+  orig: 372, 103
+  offset: 27, 9
+  index: -1
+xuexiao/suipian2/suipian2_00008
+  rotate: true
+  xy: 1960, 539
+  size: 341, 84
+  orig: 372, 103
+  offset: 8, 9
+  index: -1
+xuexiao/suipian2/suipian2_00028
+  rotate: true
+  xy: 1957, 25
+  size: 350, 89
+  orig: 372, 103
+  offset: 18, 0
+  index: -1
+xuexiao/suipian2/suipian2_00034
+  rotate: true
+  xy: 1950, 1689
+  size: 355, 92
+  orig: 372, 103
+  offset: 0, 0
+  index: -1
+xuexiao/suipian2/suipian2_00038
+  rotate: false
+  xy: 1241, 14
+  size: 356, 92
+  orig: 372, 103
+  offset: 2, 2
+  index: -1
+xuexiao/youbian/00000
+  rotate: 270
+  xy: 50, 724
+  size: 332, 1007
+  orig: 365, 1020
+  offset: 22, 0
+  index: -1
+xuexiao/youbian/00002
+  rotate: false
+  xy: 1632, 1048
+  size: 350, 997
+  orig: 365, 1020
+  offset: 4, 0
+  index: -1
+xuexiao/youbian/00006
+  rotate: false
+  xy: 2, 1044
+  size: 359, 1001
+  orig: 365, 1020
+  offset: 0, 0
+  index: -1
+xuexiao/youbian/00008
+  rotate: false
+  xy: 669, 1037
+  size: 352, 1008
+  orig: 365, 1020
+  offset: 0, 0
+  index: -1
+xuexiao/youbian/00014
+  rotate: false
+  xy: 1299, 1042
+  size: 357, 1003
+  orig: 365, 1020
+  offset: 7, 0
+  index: -1
+xuexiao/youbian/00016
+  rotate: false
+  xy: 344, 1039
+  size: 329, 1005
+  orig: 365, 1020
+  offset: 16, 0
+  index: -1
+xuexiao/youbian/00018
+  rotate: false
+  xy: 991, 1039
+  size: 327, 1006
+  orig: 365, 1020
+  offset: 19, 0
+  index: -1
+xuexiao/zuobian/00010
+  rotate: true
+  xy: 1286, 44
+  size: 445, 613
+  orig: 450, 621
+  offset: 5, 0
+  index: -1
+xuexiao/zuobian/00012
+  rotate: 270
+  xy: 2, 71
+  size: 448, 620
+  orig: 450, 621
+  offset: 2, 0
+  index: -1
+xuexiao/zuobian/00014
+  rotate: true
+  xy: 1266, 675
+  size: 448, 621
+  orig: 450, 621
+  offset: 2, 0
+  index: -1
+xuexiao/zuobian/00018
+  rotate: true
+  xy: 130, 362
+  size: 450, 621
+  orig: 450, 621
+  offset: 0, 0
+  index: -1
+xuexiao/zuobian/00020
+  rotate: 270
+  xy: 1137, 381
+  size: 450, 621
+  orig: 450, 621
+  offset: 0, 0
+  index: -1
+xuexiao/zuobian/00024
+  rotate: 180
+  xy: 691, 109
+  size: 450, 621
+  orig: 450, 621
+  offset: 0, 0
+  index: -1
+
+510040_bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuexiao/huoyan/huoyan_02
+  rotate: 180
+  xy: 1823, 1289
+  size: 224, 385
+  orig: 296, 415
+  offset: 49, 18
+  index: -1
+xuexiao/huoyan/huoyan_04
+  rotate: 270
+  xy: 2, 204
+  size: 222, 394
+  orig: 296, 415
+  offset: 48, 18
+  index: -1
+xuexiao/huoyan/huoyan_12
+  rotate: true
+  xy: 1621, 121
+  size: 227, 397
+  orig: 296, 415
+  offset: 46, 18
+  index: -1
+xuexiao/huoyan/huoyan_18
+  rotate: false
+  xy: 1793, 1510
+  size: 233, 398
+  orig: 296, 415
+  offset: 28, 17
+  index: -1
+xuexiao/huoyan/huoyan_24
+  rotate: true
+  xy: 1067, 96
+  size: 218, 397
+  orig: 296, 415
+  offset: 45, 16
+  index: -1
+xuexiao/huoyan/huoyan_26
+  rotate: true
+  xy: 171, 76
+  size: 215, 374
+  orig: 296, 415
+  offset: 45, 18
+  index: -1
+xuexiao/huoyan/huoyan_28
+  rotate: 270
+  xy: 1445, 62
+  size: 207, 381
+  orig: 296, 415
+  offset: 45, 18
+  index: -1
+xuexiao/liuguang/liuguang_00
+  rotate: 270
+  xy: 2, 375
+  size: 610, 238
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_02
+  rotate: 180
+  xy: 178, 323
+  size: 594, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_04
+  rotate: 180
+  xy: 196, 534
+  size: 609, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_06
+  rotate: 180
+  xy: 774, 911
+  size: 610, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_08
+  rotate: 180
+  xy: 232, 747
+  size: 610, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_10
+  rotate: 180
+  xy: 1395, 720
+  size: 610, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_12
+  rotate: false
+  xy: 1417, 276
+  size: 609, 246
+  orig: 610, 246
+  offset: 1, 0
+  index: -1
+xuexiao/liuguang/liuguang_14
+  rotate: 180
+  xy: 744, 477
+  size: 610, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_16
+  rotate: 180
+  xy: 1423, 944
+  size: 610, 240
+  orig: 610, 246
+  offset: 0, 6
+  index: -1
+xuexiao/liuguang/liuguang_18
+  rotate: 180
+  xy: 479, 108
+  size: 610, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_20
+  rotate: 180
+  xy: 778, 693
+  size: 608, 245
+  orig: 610, 246
+  offset: 2, 1
+  index: -1
+xuexiao/liuguang/liuguang_22
+  rotate: false
+  xy: 701, 1055
+  size: 610, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_24
+  rotate: 180
+  xy: 1382, 503
+  size: 610, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_26
+  rotate: false
+  xy: 1348, 1080
+  size: 610, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/liuguang/liuguang_28
+  rotate: 180
+  xy: 1032, 285
+  size: 610, 246
+  orig: 610, 246
+  offset: 0, 0
+  index: -1
+xuexiao/suipian2/suipian2_00002
+  rotate: false
+  xy: 450, 3
+  size: 329, 79
+  orig: 372, 103
+  offset: 13, 9
+  index: -1
+xuexiao/suipian2/suipian2_00010
+  rotate: false
+  xy: 1660, 34
+  size: 336, 85
+  orig: 372, 103
+  offset: 15, 9
+  index: -1
+xuexiao/suipian2/suipian2_00012
+  rotate: false
+  xy: 781, 38
+  size: 330, 87
+  orig: 372, 103
+  offset: 23, 9
+  index: -1
+xuexiao/suipian2/suipian2_00014
+  rotate: false
+  xy: 1113, 5
+  size: 324, 88
+  orig: 372, 103
+  offset: 31, 9
+  index: -1
+xuexiao/suipian2/suipian2_00026
+  rotate: true
+  xy: 2, 1131
+  size: 356, 87
+  orig: 372, 103
+  offset: 11, 1
+  index: -1
+xuexiao/suipian2/suipian2_00030
+  rotate: false
+  xy: 2, 48
+  size: 344, 90
+  orig: 372, 103
+  offset: 26, 0
+  index: -1
+xuexiao/zuobian/00000
+  rotate: 180
+  xy: 1450, 1305
+  size: 436, 603
+  orig: 450, 621
+  offset: 14, 0
+  index: -1
+xuexiao/zuobian/00002
+  rotate: 270
+  xy: 120, 916
+  size: 437, 606
+  orig: 450, 621
+  offset: 13, 0
+  index: -1
+xuexiao/zuobian/00006
+  rotate: 180
+  xy: 1085, 1297
+  size: 441, 611
+  orig: 450, 621
+  offset: 9, 0
+  index: -1
+xuexiao/zuobian/00016
+  rotate: 180
+  xy: 720, 1287
+  size: 450, 621
+  orig: 450, 621
+  offset: 0, 0
+  index: -1
+xuexiao/zuobian/00026
+  rotate: false
+  xy: 2, 1286
+  size: 446, 621
+  orig: 450, 621
+  offset: 1, 0
+  index: -1
+xuexiao/zuobian/00028
+  rotate: 180
+  xy: 350, 1287
+  size: 449, 621
+  orig: 450, 621
+  offset: 1, 0
+  index: -1
